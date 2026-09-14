@@ -90,6 +90,79 @@
     ]
   },
   {
+    "slug": "joo-chiat-after-eight",
+    "title": "Joo Chiat after eight",
+    "kicker": "Food",
+    "category": "food",
+    "excerpt": "Not a Peranakan museum with a queue. The east after work: laksa arguments, shophouse bars, Marine Parade for the actual dinner, and the TEL stop that finally made this a Tuesday neighbourhood.",
+    "updated": "15 September 2026",
+    "readMinutes": 7,
+    "featured": false,
+    "hero": "/live/kampong-glam.jpg",
+    "tags": [
+      "joo chiat",
+      "katong",
+      "laksa",
+      "east coast",
+      "food",
+      "bars",
+      "marine parade"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "East Coast Road is the postcard. Joo Chiat Road is where people who live here actually walk after 8pm. The shophouses are still shophouses. The laksa argument is still an argument. Tanjong Katong MRT (TEL) is what changed the neighbourhood from a taxi decision into a Tuesday. If you only came for the colourful facades and left, you did the tourist version."
+      },
+      {
+        "type": "h2",
+        "text": "Laksa, then move"
+      },
+      {
+        "type": "p",
+        "text": "Katong laksa is coconut, cut noodles, a fork. The stretch around East Coast Road / Ceylon Road still has the old names fighting about who is original. Pick one, sit down, do not film the bowl. It is a S$6\u20138 lunch that people from the east will grade you on. Then leave. The neighbourhood is longer than one soup."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Kueh and pastry in the same few blocks in the late afternoon, before they sell out. If you wait until 8pm you get the fluorescent leftovers.",
+          "Nasi lemak, banana leaf, and the Marine Parade hawker centres are the weeknight dinner. Joo Chiat Road restaurants are the Friday. Do not spend S$48 on a \u2018heritage set\u2019 when the hawker two bus stops away is better.",
+          "Caf\u00e9s on Joo Chiat are for Saturday 10am. After eight they turn into wine and small plates. That is allowed."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Drink like you live two streets over"
+      },
+      {
+        "type": "p",
+        "text": "The independent bars hide on the side streets and in the shophouses without a PR firm. One cocktail is S$20\u201328, same as Tanjong Pagar, but you can hear the person opposite. Last train on the TEL is the constraint, not the lock-in. Grab from here to Tiong Bahru is a long, expensive sulk \u2014 stay east or go home."
+      },
+      {
+        "type": "callout",
+        "tone": "info",
+        "title": "Parking and rain",
+        "text": "Street parking fills by 7.30 on Friday. The malls on East Coast / Marine Parade are the overflow. Flash floods still pick the same low Katong pockets. If the canal is angry, walk."
+      },
+      {
+        "type": "h2",
+        "text": "How to use it as a resident"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Live here if you want shophouse grain, the beach five minutes on a bike, and schools that are not all in Bukit Timah. Read the East Coast / Katong neighbourhood note before you sign a lease on a \u2018conservation\u2019 walk-up with no lift.",
+          "Do not treat Joo Chiat as Chinatown-for-Instagram. People dry laundry, send kids to tuition, and complain about the new caf\u00e9\u2019s exhaust. Be the neighbour.",
+          "Sunday morning: East Coast Park is the run. Joo Chiat is the brunch. Marine Parade is the wet market. In that order."
+        ]
+      },
+      {
+        "type": "cta",
+        "label": "East Coast / Katong as a place to live",
+        "href": "/neighbourhoods/east-coast"
+      }
+    ]
+  },
+  {
     "slug": "bringing-a-dog-2026",
     "title": "Bringing the dog (or don\u2019t)",
     "kicker": "Family",
