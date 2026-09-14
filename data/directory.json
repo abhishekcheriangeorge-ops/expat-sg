@@ -43,7 +43,7 @@
     {
       "id": "family",
       "label": "Family & home",
-      "blurb": "Helpers, childcare, pets, furniture."
+      "blurb": "Helpers, childcare, vets, furniture. Pets are licensed on PALS."
     },
     {
       "id": "lifestyle",
@@ -448,6 +448,48 @@
       "tags": [
         "gym",
         "pool"
+      ]
+    },
+    {
+      "id": "mount-pleasant-vet",
+      "name": "Mount Pleasant Veterinary Group",
+      "category": "family",
+      "blurb": "The 24-hour number people actually save. Multiple centres; emergency and general. Book the GP vet before you need the night clinic. See also: bringing a dog.",
+      "url": "https://www.mountpleasant.com.sg/",
+      "tags": [
+        "vet",
+        "pets",
+        "emergency",
+        "dog",
+        "cat",
+        "24h"
+      ]
+    },
+    {
+      "id": "the-animal-clinic",
+      "name": "The Animal Clinic",
+      "category": "family",
+      "blurb": "Long-running small-animal practice (Farrer / west). Vaccines, licences, the unglamorous annual — which is the point.",
+      "url": "https://www.theanimalclinic.com.sg/",
+      "tags": [
+        "vet",
+        "pets",
+        "dog",
+        "cat"
+      ]
+    },
+    {
+      "id": "avs-pals",
+      "name": "AVS — PALS pet licensing",
+      "category": "family",
+      "blurb": "Official: licence every cat and dog, Pet Ownership Course, import rules. pals.avs.gov.sg. Not a clinic.",
+      "url": "https://www.nparks.gov.sg/avs",
+      "tags": [
+        "avs",
+        "nparks",
+        "licence",
+        "pals",
+        "import"
       ]
     }
   ]
