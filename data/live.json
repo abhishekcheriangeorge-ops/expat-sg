@@ -90,6 +90,84 @@
     ]
   },
   {
+    "slug": "a-gp-not-ae-2026",
+    "title": "A GP, not A&E",
+    "kicker": "City",
+    "category": "city",
+    "excerpt": "Polyclinic consult for a non-resident is about S$84 from 1 September 2026, plus a S$75 deposit. A neighbourhood GP is often cheaper and today. A&E is for emergencies, not a sore throat on Sunday.",
+    "updated": "15 September 2026",
+    "readMinutes": 7,
+    "featured": false,
+    "hero": "/live/marina-bay.jpg",
+    "tags": [
+      "gp",
+      "polyclinic",
+      "raffles medical",
+      "healthhub",
+      "mc",
+      "hospital",
+      "insurance"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Singapore will let you walk into a public emergency department with a cough. It will also charge you, queue you behind real emergencies, and send you out with Panadol. Residents here keep a GP. The week you arrive, pick one within ten minutes of the condo and save the number. A&E is for chest pain, a break, bleeding you cannot stop — not for a medical certificate because you cannot face the office."
+      },
+      {
+        "type": "h2",
+        "text": "Polyclinic, if you insist"
+      },
+      {
+        "type": "p",
+        "text": "National University Polyclinics published new consult fees from 1 September 2026. Subsidised adult citizen: S$19.60. Subsidised PR: S$43.50. Non-resident (that is the EP/S Pass household): S$83.71 for a standard consult, S$103.55 for a family-physician consult, GST in. Non-residents pay a S$75 deposit at registration. Medication, labs, X-ray are extra. Appointments through HealthHub / the Health Appointment System. Walk-in is a morning you will not get back."
+      },
+      {
+        "type": "callout",
+        "tone": "info",
+        "title": "PRs and citizens",
+        "text": "The subsidy is the point of the public system. If you have PR, use it for chronic care and the cheap follow-up. If you do not, the polyclinic is not automatically the cheap option."
+      },
+      {
+        "type": "h2",
+        "text": "The neighbourhood clinic is the default"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Private GP consults commonly land S$30–80 before medicine. HDB-block clinics are at the low end. Mall clinics and Raffles/Parkway Shenton are at the high end and open later.",
+          "Same-day MC, same-day antibiotics, English notes for the insurer. That is why people pay.",
+          "Corporate outpatient panels (AIA, Great Eastern, Cigna, Aetna) often mean S$0 at a listed clinic if you flash the e-card. Check the panel before you pick a GP ‘because it is downstairs’.",
+          "Sunday and public-holiday surcharges are real. So is the 24-hour clinic at a hospital. Still cheaper than A&E for a fever."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "When it is actually A&E"
+      },
+      {
+        "type": "p",
+        "text": "Public A&E (SGH, NUH, TTSH, CGH, KTPH, SKH) will triage you. P1 and P2 go first. P3 waits. The consult alone is often S$120–200 before scans. Private A&E at Mount E, Gleneagles, Raffles is faster and a different invoice — call the insurer on the way if you have evacuation/inpatient cover. For kids after midnight, KK (KKH) is the paediatric address people actually use."
+      },
+      {
+        "type": "h2",
+        "text": "Do this once"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "HealthHub account, tied to Singpass. Even if you never use a polyclinic, the app is how a lot of results move.",
+          "One GP, named, in your maps. One 24-hour backup. Paediatrician if you have children — do not find one at 2am.",
+          "Photo of the insurance card in the phone. Panel list bookmarked. A&E does not care that HR ‘is sorting it’."
+        ]
+      },
+      {
+        "type": "cta",
+        "label": "Health insurance, the unsexy version",
+        "href": "/guides/healthcare-insurance"
+      }
+    ]
+  },
+  {
     "slug": "the-school-calendar-2026",
     "title": "The other calendar",
     "kicker": "Family",
