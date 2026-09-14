@@ -90,6 +90,77 @@
     ]
   },
   {
+    "slug": "the-school-calendar-2026",
+    "title": "The other calendar",
+    "kicker": "Family",
+    "category": "family",
+    "excerpt": "MOE Term 4 started 14 September. Year-end break is 21 November. International schools are on a different planet. Children’s Day is 2 October. F1 week is not a school holiday. Put it on the fridge before you book flights.",
+    "updated": "15 September 2026",
+    "readMinutes": 7,
+    "featured": false,
+    "hero": "/live/playground.jpg",
+    "tags": [
+      "school",
+      "term 4",
+      "children's day",
+      "moe",
+      "holidays",
+      "international school"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "There are two clocks in this country if you have children. The Ministry of Education calendar runs the heartland, the helper’s leave, the mall in the afternoon, and your neighbour’s kids. The international-school PDF in your inbox runs your household. They only line up by accident. Term 4 for MOE primary and secondary started Monday 14 September 2026 and ends Friday 20 November. The year-end holiday is Saturday 21 November to Thursday 31 December. If you just used the September week (5–13 Sep) to go to Japan, you are back in the machine."
+      },
+      {
+        "type": "h2",
+        "text": "MOE 2026, the dates that bite"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Term 4: 14 Sep – 20 Nov. Ten weeks. This is exams for a lot of secondary, and ‘can we still fly’ for everyone else.",
+          "Children’s Day: Friday 2 October. Primary and MOE kindergarten only. Secondary sits in class. Offices do not close. You still need after-school cover if your child is P6.",
+          "Deepavali: Sunday 8 November; Monday 9 November is the public holiday in lieu. Little India will have been lit for weeks. Schools closed that Monday.",
+          "Teachers’ Day was Friday 4 September. Youth Day holiday was Monday 6 July. Do not ask HR for them next year as if they were public holidays — they are school holidays.",
+          "Year-end: 21 Nov – 31 Dec. Flights are already ugly. If you need mid-December seats, you are competing with every local family and every returning graduate."
+        ]
+      },
+      {
+        "type": "callout",
+        "tone": "warn",
+        "title": "F1 is not a school holiday",
+        "text": "9–11 October is a loud weekend for people who live in Marina Centre. It is a normal school week. Do not plan a staycation because the kids are off. They are not off. Road closures are 7–13 Oct."
+      },
+      {
+        "type": "h2",
+        "text": "International schools are not MOE"
+      },
+      {
+        "type": "p",
+        "text": "Tanglin, UWC, SAS, CIS, Dulwich, GESS, the French and German schools, the Japanese school — each publishes its own year. Northern-hemisphere terms often run August to June with a half-term in October that sometimes kisses F1 week and sometimes does not. Do not use the MOE PDF for an international-school child. Do not use the international-school PDF to judge why the playground is empty in June. June is when local kids are off and the island belongs to them."
+      },
+      {
+        "type": "h2",
+        "text": "The household version"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Helper rest day vs school holiday: you still need a plan. A public holiday is not a rest-day substitute unless you both agree and you pay the rules.",
+          "Camps fill the June and November–December gaps. Book the good ones when the term starts, not the week before.",
+          "If one child is MOE and one is international, you have two half-terms and almost no overlapping long break except December. That is a feature you pay for in leave.",
+          "Offices do not follow Children’s Day. Polyclinics do not either. The library and the mall do."
+        ]
+      },
+      {
+        "type": "cta",
+        "label": "After-school, without the arms race",
+        "href": "/live/kids-after-school"
+      }
+    ]
+  },
+  {
     "slug": "condo-is-not-a-country",
     "title": "Your condo is not a country",
     "kicker": "City",
