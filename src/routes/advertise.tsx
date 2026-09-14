@@ -24,8 +24,8 @@ function Advertise() {
         Buy the position, not the banner.
       </h1>
       <p className="mt-3 max-w-2xl text-muted">
-        This is a hyper-local search engine. People arrive with an offer letter, a lease, or a school decision. Sponsored
-        search slots, directory features and labelled guides are the inventory.
+        Residents grocery-shop, school, insure, eat and hire here every month. People on the plane convert in week one.
+        Live stories, search slots and directory features — labelled.
       </p>
 
       <div className="mt-10 grid gap-4 lg:grid-cols-2">

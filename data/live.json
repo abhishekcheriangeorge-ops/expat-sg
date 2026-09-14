@@ -1,0 +1,813 @@
+[
+  {
+    "slug": "hawker-without-looking-lost",
+    "title": "How to walk into a hawker centre without looking lost",
+    "kicker": "Food",
+    "category": "food",
+    "excerpt": "The first meal that makes you feel like you live here is not at a hotel buffet. It is chicken rice at a round table, tray in hand, uncle already taking the next order.",
+    "updated": "14 September 2026",
+    "readMinutes": 7,
+    "featured": true,
+    "hero": "/live/hawker.jpg",
+    "tags": [
+      "hawker",
+      "food",
+      "chicken rice",
+      "maxwell",
+      "old airport",
+      "laksa"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "If you only eat in Holland Village for the first six months, you will have lived in a very expensive version of home. The city happens at hawker centres. They are not rustic. They are the national canteen \u2014 air-conditioned now, in many cases, and still S$4\u20138 a plate."
+      },
+      {
+        "type": "h2",
+        "text": "The move"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Walk the whole loop once before you queue. The good stall is rarely the first one you see from the door.",
+          "Look at the trays coming off the counter, not the plastic photos. If those plates look like what you want, stand there.",
+          "Have your order ready: \u201cchicken rice, steamed, no cucumber, teh peng.\u201d Singapore rewards speed, not speeches.",
+          "Pay when the food comes unless they take it first. NETS/PayNow is normal in 2026; keep a S$10 note anyway.",
+          "Share a round table. That is not a social invitation. Put your packet of tissues down to hold a seat, then go queue."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Five centres that teach you the island"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Maxwell (Chinatown) \u2014 tourist-heavy, still the fastest education in chicken rice, and the Tian Tian queue is a Singapore conversation starter.",
+          "Old Airport Road \u2014 the east-side encyclopedia. Satay, oyster omelette, fried carrot cake. Go hungry.",
+          "Tiong Bahru Market (upstairs) \u2014 breakfast with the neighbourhood. Downstairs is the wet market; that is the second lesson.",
+          "Chomp Chomp (Serangoon Gardens) \u2014 night, open-air, the stall you will argue about with colleagues.",
+          "Our Tampines Hub / a heartland mall food court \u2014 this is how most of the country actually eats on a Tuesday."
+        ]
+      },
+      {
+        "type": "callout",
+        "tone": "info",
+        "text": "\u201cTissue packet on the table\u201d is a reservation. Do not move someone else\u2019s. Do not be precious about sitting with strangers.",
+        "title": "The packet"
+      },
+      {
+        "type": "h2",
+        "text": "What to order when you have no idea"
+      },
+      {
+        "type": "p",
+        "text": "Chicken rice. Economic rice (cai png) if you want vegetables and three dishes pointed at with a pair of tongs. Minced meat noodles. Fish soup. Nasi lemak. If it is spicy, say \u201cnot too spicy\u201d once \u2014 they will still make it Singapore-spicy."
+      },
+      {
+        "type": "p",
+        "text": "Drink: kopi (coffee with condensed milk), kopi-o (black, sugar), kopi-c (evaporated milk), teh peng (iced tea). \u201cPeng\u201d means iced. You now speak a little of the language of the morning."
+      },
+      {
+        "type": "cta",
+        "label": "Kopitiam vocabulary",
+        "href": "/live/kopitiam-vocabulary"
+      }
+    ]
+  },
+  {
+    "slug": "weekend-that-isnt-orchard",
+    "title": "A weekend that is not Orchard Road",
+    "kicker": "Weekends",
+    "category": "weekend",
+    "excerpt": "The island is 50 km across. You can spend two years shopping the same three malls, or you can learn the coast, the reservoir, and the Causeway.",
+    "updated": "12 September 2026",
+    "readMinutes": 8,
+    "featured": true,
+    "hero": "/live/east-coast.jpg",
+    "tags": [
+      "weekend",
+      "east coast",
+      "macritchie",
+      "cycling",
+      "southern ridges",
+      "parkrun"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Orchard is for when you need a phone fixed or a cinema with reserved seats. It is not a personality. The people who stay sane here have a Saturday loop that does not involve ION."
+      },
+      {
+        "type": "h2",
+        "text": "Saturday morning"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Parkrun at East Coast or West Coast if you can bear 7.30am humidity. It is free, it is the same people every week, and that is how you make friends without \u201cnetworking\u201d.",
+          "MacRitchie Reservoir \u2014 the Treetop Walk if you book, the boardwalk if you do not. Go before 8am or you will melt.",
+          "East Coast Park: rent a bike at the McDonald\u2019s end, ride toward Bedok, eat seafood at the chalets, swim if the flag is green."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Saturday afternoon, when it rains"
+      },
+      {
+        "type": "p",
+        "text": "It will rain. Plan B is a museum with aircon (National Gallery is actually good; the Peranakan Museum is the one you should have gone to already) or a hawker centre you have not done. Do not default to a mall unless the children are melting."
+      },
+      {
+        "type": "h2",
+        "text": "Sunday without leaving the island"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Southern Ridges: Henderson Waves at golden hour. You will share it with wedding photographers. Still worth it.",
+          "Pulau Ubin if you want to remember that Singapore used to be kampung. First-come bicycles at the jetty. Last bumboat is real \u2014 check the time.",
+          "Kampong Glam in the late afternoon, mosque first, then Haji Lane when the light goes pink, then dinner that is not a burger."
+        ]
+      },
+      {
+        "type": "callout",
+        "tone": "ok",
+        "text": "Car ownership here is a lifestyle choice, not a default. A weekend with EZ-Link/SimplyGo, a folding bike, and Grab for the last kilometre is how most new arrivals actually live."
+      },
+      {
+        "type": "cta",
+        "label": "Resident exits: JB, Bintan, Desaru",
+        "href": "/live/jb-bintan-desaru"
+      }
+    ]
+  },
+  {
+    "slug": "belonging-in-90-days",
+    "title": "How to belong in 90 days",
+    "kicker": "Living here",
+    "category": "social",
+    "excerpt": "A pass is permission to work. Belonging is a kopi uncle who starts your order when you walk in, a clinic that has your file, and one person who would collect your mail.",
+    "updated": "10 September 2026",
+    "readMinutes": 9,
+    "featured": true,
+    "hero": "/live/kampong-glam.jpg",
+    "tags": [
+      "friends",
+      "community",
+      "settle",
+      "social",
+      "clubs",
+      "belonging"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "The lonely version of this city is a condo with a pool you never use and a Grab history of the same four restaurants. The other version is smaller, cheaper, and much more Singapore."
+      },
+      {
+        "type": "h2",
+        "text": "Week 1\u20132: the boring infrastructure of a life"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Pick a GP within walking distance. Parkway, Raffles, or a neighbourhood clinic \u2014 you need a name, not a hospital A&E for a sore throat.",
+          "Open the bank account, get PayNow, put your Singpass (if you have an EP/S Pass) to work. Cash is for the one stall that still wants it.",
+          "Learn the bus that actually serves your block, not just the MRT. The last mile is where you live."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Week 3\u20136: one repeating thing"
+      },
+      {
+        "type": "p",
+        "text": "Join one thing that meets every week. Not a Facebook group. A physical room. Hash House Harriers, a running club, a church, a mosque, a temple, CrossFit if you must, a language class at the community centre, Toastmasters, a football pitch booked on ActiveSG. The content of the hobby matters less than the fact that the same 20 people see you on Thursday."
+      },
+      {
+        "type": "h2",
+        "text": "Week 7\u201312: get slightly local"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "A hawker stall that knows you. That is not poetry. That is how lunch works.",
+          "One Singaporean colleague you could text on a Sunday. You have to go first.",
+          "A wet market Saturday. Even if you still buy yoghurt at Cold Storage.",
+          "Learn two festival dates that are not Christmas. Show up to one."
+        ]
+      },
+      {
+        "type": "callout",
+        "tone": "warn",
+        "text": "Do not build your entire social life inside the nationality bubble. It is comfortable and it is how people leave after three years still unable to order in a kopitiam.",
+        "title": "The compound"
+      },
+      {
+        "type": "p",
+        "text": "Belonging here is not becoming Singaporean. It is being a person the city can place. Address, clinic, stall, club, one friend who is not on your payroll. That is the whole trick."
+      },
+      {
+        "type": "cta",
+        "label": "Sports clubs and repeating rooms",
+        "href": "/live/sports-clubs-repeating-rooms"
+      }
+    ]
+  },
+  {
+    "slug": "kopitiam-vocabulary",
+    "title": "Kopi, teh, and the rest of breakfast",
+    "kicker": "Food",
+    "category": "food",
+    "excerpt": "Singapore breakfast is a dialect. Once you can order it, mornings get cheaper and better.",
+    "updated": "8 September 2026",
+    "readMinutes": 5,
+    "hero": "/live/hawker.jpg",
+    "tags": [
+      "kopi",
+      "teh",
+      "kopitiam",
+      "breakfast",
+      "kaya"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A kopitiam is a coffee shop, often with a few cooked-food stalls around a drinks uncle who has been there longer than your visa category has existed."
+      },
+      {
+        "type": "h2",
+        "text": "The drinks"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Kopi \u2014 coffee with condensed milk, the default.",
+          "Kopi-o \u2014 black, sugar. Kopi-o kosong \u2014 black, no sugar.",
+          "Kopi-c \u2014 evaporated milk, less sweet.",
+          "Kopi peng \u2014 iced. Siu dai \u2014 less sugar. Gah dai \u2014 more, if you must.",
+          "Teh follows the same grammar. Teh tarik is pulled milk tea.",
+          "Yuan yang \u2014 coffee plus tea. It is not a joke."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The plate"
+      },
+      {
+        "type": "p",
+        "text": "Kaya toast (coconut jam, cold butter, grilled bread) and two half-boiled eggs with white pepper and dark soy. That is the national breakfast. Add a plate of nasi lemak if you are actually hungry. It will still be under S$8."
+      },
+      {
+        "type": "callout",
+        "tone": "info",
+        "text": "Pointing at the menu like a tourist is fine once. The second time, say the words. Uncles are not waiting to be your language teacher, but they are waiting for you to decide."
+      }
+    ]
+  },
+  {
+    "slug": "public-holidays-2026",
+    "title": "The 2026 holidays, and what they actually are",
+    "kicker": "Culture",
+    "category": "culture",
+    "excerpt": "Singapore does not close for your home country\u2019s calendar. It closes for other people\u2019s holy days \u2014 and then the whole island goes somewhere.",
+    "updated": "5 September 2026",
+    "readMinutes": 6,
+    "hero": "/live/kampong-glam.jpg",
+    "tags": [
+      "holidays",
+      "cny",
+      "hari raya",
+      "deepavali",
+      "national day",
+      "vesak"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "If you treat public holidays as \u201ca day off\u201d, you will spend them in a mall. If you treat them as other people\u2019s festivals, the city opens."
+      },
+      {
+        "type": "h2",
+        "text": "Still ahead in 2026"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Mid-Autumn Festival \u2014 Friday 25 September. Mooncakes in the office, lanterns at the Chinese Garden and in Chinatown. You will be offered a snow-skin. Accept it.",
+          "Deepavali \u2014 8 November. Little India is the point. Go in the evening. Eat. Do not complain about crowds you walked into.",
+          "Christmas is a shopping season here, not a shutdown. 25 December is a holiday; 26th is often a working day. Plan flights accordingly."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Already passed, learn them for next year"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Chinese New Year \u2014 the two-day close, reunion dinners, ang bao etiquette if you have children of friends, and the week the CBD is empty.",
+          "Hari Raya Puasa / Haji \u2014 visit if you are invited. Bring a box of cookies. Remove your shoes.",
+          "Vesak \u2014 temples, and a quieter kind of crowd.",
+          "National Day, 9 August \u2014 the parade if you balloted; the heartland fireworks if you did not. Wear red if you want to. Nobody will make you."
+        ]
+      },
+      {
+        "type": "callout",
+        "tone": "warn",
+        "text": "Do not book a moving truck, a helper\u2019s rest-day swap, or a government appointment on the eve of CNY or a long weekend. Half the island is already on the Causeway."
+      },
+      {
+        "type": "cta",
+        "label": "Mid-Autumn without being awkward",
+        "href": "/live/mid-autumn-office"
+      }
+    ]
+  },
+  {
+    "slug": "kids-after-school",
+    "title": "After-school, without going broke",
+    "kicker": "Family",
+    "category": "family",
+    "excerpt": "Enrichment is an arms race. Playgrounds, ActiveSG, libraries and the void deck are still how a lot of this country raises children.",
+    "updated": "3 September 2026",
+    "readMinutes": 7,
+    "hero": "/live/playground.jpg",
+    "tags": [
+      "kids",
+      "playground",
+      "activesg",
+      "library",
+      "enrichment",
+      "family"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "International-school Saturdays can become a second mortgage of swimming, Mandarin, coding and \u201csocial tennis\u201d. Some of that is useful. Most of it is other parents\u2019 anxiety, priced in SGD."
+      },
+      {
+        "type": "h2",
+        "text": "The free and almost-free layer"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "NLS / NLB libraries \u2014 air-conditioned, board books, and the only place a toddler can be loud-ish at 4pm without a membership.",
+          "Neighbourhood playgrounds and void decks. This is not slumming it. This is Singapore. The children you want your child to meet are already there.",
+          "ActiveSG sports centres \u2014 public pools and courts. Book on the app. Non-citizens pay more; it is still not a country club.",
+          "Gardens by the Bay outdoor gardens are free. The Cloud Forest is the paid bit, and you do not need it every weekend."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "When you do pay"
+      },
+      {
+        "type": "p",
+        "text": "Pick one thing the child actually likes. Swim is the one that matters in a country of condominium pools and sudden rain. Mandarin is the one that pays off if you stay. Everything else can wait until they ask."
+      },
+      {
+        "type": "callout",
+        "tone": "info",
+        "text": "The \u201cexpat playground\u201d circuit (Botanic Gardens playground, East Coast, Sentosa) is real and pleasant. Alternate with a heartland town square or you will raise a child who thinks Singapore is a park with a food court."
+      }
+    ]
+  },
+  {
+    "slug": "paynow-nets-death-of-cash",
+    "title": "PayNow, NETS, and the death of cash",
+    "kicker": "Daily money",
+    "category": "money",
+    "excerpt": "By week two you should be able to split a hawker bill, pay a helper, and settle a Grab without opening a wallet.",
+    "updated": "1 September 2026",
+    "readMinutes": 6,
+    "hero": "/live/marina-bay.jpg",
+    "tags": [
+      "paynow",
+      "nets",
+      "paylah",
+      "banking",
+      "cash"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Singapore in 2026 is allergic to notes. The stall that only takes cash still exists. It is not the majority, and you will feel it when you are the person holding up the queue counting coins."
+      },
+      {
+        "type": "h2",
+        "text": "What to set up"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "A local bank account (DBS/POSB, OCBC, UOB) linked to PayNow via NRIC or mobile. This is how people send you money.",
+          "The bank\u2019s app \u2014 DBS PayLah! if you went DBS. Scan QR. That is lunch.",
+          "NETS on a debit card for the supermarket and the MRT/bus (SimplyGo).",
+          "GrabPay or a credit card for rides. Do not use cash with a Grab driver unless you said so in the app."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The helper, the landlord, the school"
+      },
+      {
+        "type": "p",
+        "text": "Maids are often paid via PayNow. Landlords still love a bank transfer on the 1st. Schools will give you a GIRO form and look at you until you fill it in. GIRO is the adult version of belonging."
+      },
+      {
+        "type": "callout",
+        "tone": "ok",
+        "text": "Keep S$20\u201350 cash for the one taxi with a broken machine, the temple donation, and the uncle who has not joined 2026. That is the whole cash strategy."
+      }
+    ]
+  },
+  {
+    "slug": "jb-bintan-desaru",
+    "title": "Resident exits: JB, Bintan, Desaru",
+    "kicker": "Weekends",
+    "category": "weekend",
+    "excerpt": "The island is small. Leaving it is a sport. Do it like someone who has to be at work on Monday.",
+    "updated": "28 August 2026",
+    "readMinutes": 7,
+    "hero": "/live/east-coast.jpg",
+    "tags": [
+      "jb",
+      "bintan",
+      "desaru",
+      "batam",
+      "weekend",
+      "causeway"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Leaving Singapore for 36 hours is how you stay. The mistake is treating it like a holiday to another country. It is a valve."
+      },
+      {
+        "type": "h2",
+        "text": "Johor Bahru"
+      },
+      {
+        "type": "p",
+        "text": "KTM into JB Sentral if you want to skip the Causeway car park. CIQ on a Saturday morning is a personality test. Go for seafood, dental work, a tailor, or a hotel with a pool that costs what a Tanglin lunch costs. Be back before Sunday night or you will join the famous queue."
+      },
+      {
+        "type": "h2",
+        "text": "Bintan / Batam"
+      },
+      {
+        "type": "p",
+        "text": "Ferries from HarbourFront. Bintan is resorts and beaches; Batam is more workaday. Passports, not ICs. Book the return ferry before you care about the hotel."
+      },
+      {
+        "type": "h2",
+        "text": "Desaru"
+      },
+      {
+        "type": "p",
+        "text": "A car or a bus, a coast, and a slower Malaysia. Worth it if you have children who need to run in a straight line."
+      },
+      {
+        "type": "callout",
+        "tone": "warn",
+        "text": "Long weekends: the Causeway is a parking lot. Either leave Thursday night or do not leave. Watch ICA and Waze like a hawk.",
+        "title": "Eve of holiday"
+      }
+    ]
+  },
+  {
+    "slug": "dont-be-that-expat",
+    "title": "Don\u2019t be that expat",
+    "kicker": "Culture",
+    "category": "culture",
+    "excerpt": "A short list of ways to live here without becoming the story Singaporeans tell about foreigners.",
+    "updated": "26 August 2026",
+    "readMinutes": 6,
+    "hero": "/live/kampong-glam.jpg",
+    "tags": [
+      "etiquette",
+      "culture",
+      "race",
+      "religion",
+      "manners"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Singapore is polite until it is not. Most of the rules are not written. Breaking them does not get you deported. It just means people stop explaining things to you."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Do not skip the queue. There is always a queue. Join it.",
+          "Take off your shoes in homes without being asked.",
+          "Do not touch people\u2019s heads. Do not point with your foot.",
+          "Speak more quietly on the MRT than you think you need to. Phone speaker in a carriage is a moral failing.",
+          "Chewing gum is not a personality. The ban is real enough.",
+          "Do not compare everything to \u201cback home\u201d in the first twenty minutes of dinner.",
+          "Race and religion are not ice-breakers. CMIO is how the state counts people; it is not your anecdote.",
+          "Tip as the card machine suggests, or not at all in hawker centres. Do not perform American tipping in a chicken-rice stall.",
+          "Your helper is a worker, not a character in your content.",
+          "National Service is not a debate topic you were invited to."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "The positive version: learn names, eat the food, show up to the office lunch, say \u201csorry ah\u201d when you bump someone, and mean it. That is 90% of looking like you live here."
+      }
+    ]
+  },
+  {
+    "slug": "sports-clubs-repeating-rooms",
+    "title": "Sports clubs and other repeating rooms",
+    "kicker": "Social",
+    "category": "social",
+    "excerpt": "Friends in Singapore are a scheduling problem. Book a court, join a hash, or stand on a start line every Saturday.",
+    "updated": "22 August 2026",
+    "readMinutes": 6,
+    "hero": "/live/east-coast.jpg",
+    "tags": [
+      "sports",
+      "hash",
+      "running",
+      "activesg",
+      "clubs",
+      "friends"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "People here work late and leave the country on Friday. If your social plan is \u201cwe should grab a drink sometime\u201d, you will be alone. If your social plan is a booking, you will see the same faces."
+      },
+      {
+        "type": "h2",
+        "text": "Where repeating happens"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Hash House Harriers \u2014 several hashes, several personalities, beer optional-not-really, jungle optional.",
+          "Parkrun \u2014 East Coast, West Coast, Bedok, etc. 5 km, Saturday, free.",
+          "ActiveSG \u2014 book badminton, tennis, football. Non-members of anything can still play.",
+          "The traditional clubs (Tanglin, SCC, Dutch, American, British) \u2014 expensive, useful if your company pays, not required to have a life.",
+          "Climbing gyms, CrossFit boxes, yoga that is not a personality cult. Six months of showing up beats a mixer.",
+          "Volunteer: Habitat, animal shelters, migrant-worker groups. Singapore will take your time."
+        ]
+      },
+      {
+        "type": "callout",
+        "tone": "info",
+        "text": "InterNations and the Facebook groups are how you find the first event. They are not a community. The second event is the one you should go to."
+      }
+    ]
+  },
+  {
+    "slug": "f1-month-if-you-live-here",
+    "title": "F1 month, if you live here",
+    "kicker": "This season",
+    "category": "city",
+    "excerpt": "The Singapore Grand Prix is 9\u201311 October 2026 \u2014 first Sprint weekend, The Killers, Lana Del Rey. Also: road closures from 7 October. Plan like a resident, not a spectator.",
+    "updated": "14 September 2026",
+    "readMinutes": 6,
+    "featured": true,
+    "hero": "/live/marina-bay.jpg",
+    "tags": [
+      "f1",
+      "formula 1",
+      "marina bay",
+      "october",
+      "road closures",
+      "lana del rey"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "If you do not have a ticket, F1 is still your problem. LTA closes Marina Centre and Padang-area roads from 12.01am on 7 October through the morning of 13 October. The race itself is 9\u201311 October under the lights. Last trains from City Hall run late on event nights."
+      },
+      {
+        "type": "h2",
+        "text": "If you are going"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "This is Singapore\u2019s first F1 Sprint weekend. Friday is not a quiet practice day.",
+          "Concert stages are bundled with race tickets. The Killers Saturday, Lana Del Rey Sunday \u2014 treat that as the reason half your office is \u201cworking from home\u201d adjacent to the bay.",
+          "MRT. Not a car. Not a Grab that will be surging and stuck."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "If you are not going"
+      },
+      {
+        "type": "p",
+        "text": "Avoid the bay. Eat in the heartlands. Book nothing that assumes you can cross Marina Centre. Host the people who flew in, or leave for JB on Thursday 8 October before the island performs itself."
+      },
+      {
+        "type": "callout",
+        "tone": "warn",
+        "text": "Work from home those three days if you can. The CBD is a concert with a racetrack in it."
+      },
+      {
+        "type": "cta",
+        "label": "What\u2019s on",
+        "href": "/events"
+      }
+    ]
+  },
+  {
+    "slug": "wet-market-vs-cold-storage",
+    "title": "Wet market vs Cold Storage",
+    "kicker": "Food",
+    "category": "food",
+    "excerpt": "You can grocery-shop this island like a hotel guest, or you can learn the morning market and cut the bill in half.",
+    "updated": "18 August 2026",
+    "readMinutes": 5,
+    "hero": "/live/hawker.jpg",
+    "tags": [
+      "wet market",
+      "ntuc",
+      "cold storage",
+      "little farms",
+      "groceries"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Cold Storage and Little Farms are where the country stores imported cheese. NTUC FairPrice is where the country actually shops. The wet market is where the fish still has eyes."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Wet market (often under a hawker centre): veg, tofu, fish, chicken, cut fruit. Morning. Bring bags. Point, then PayNow.",
+          "NTUC \u2014 house brands, diapers, the weekly shop. Every town.",
+          "Cold Storage / Market Place \u2014 when you need the thing from home. You will pay for the feeling.",
+          "Mustafa (Little India) \u2014 24 hours, everything, a little chaotic, occasionally the only place that has your home-brand chilli sauce."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "A reasonable split: wet market twice a week for produce, NTUC for bulk, Cold Storage as a treat. Your helper, if you have one, already knows this. Ask her. Pay her for the knowledge."
+      }
+    ]
+  },
+  {
+    "slug": "haze-humidity-nea",
+    "title": "Haze, humidity, and the NEA text",
+    "kicker": "The city",
+    "category": "city",
+    "excerpt": "The weather here is a policy area. Learn the PSI the way you learned to check rain at home.",
+    "updated": "15 August 2026",
+    "readMinutes": 4,
+    "hero": "/live/marina-bay.jpg",
+    "tags": [
+      "haze",
+      "psi",
+      "nea",
+      "humidity",
+      "weather"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "It is hot. It will not stop being hot. The indoor world is 23\u00b0C and the outdoor world is a wet towel. You dress for the five minutes between them, which is why people carry a cardigan and still shine."
+      },
+      {
+        "type": "h2",
+        "text": "Haze"
+      },
+      {
+        "type": "p",
+        "text": "When Sumatra burns, Singapore gets a number. PSI. Under 100, live your life. 100\u2013200, kids and the elderly stay in. Above that, the country talks about it on the news and you cancel the East Coast ride. NEA will tell you. So will every group chat."
+      },
+      {
+        "type": "h2",
+        "text": "Rain"
+      },
+      {
+        "type": "p",
+        "text": "Flash floods happen on the same five roads every year. If you live in a low-lying pocket (some of Katong, some of the west), you will learn which. Do not drive into a underpass because the car in front did."
+      },
+      {
+        "type": "callout",
+        "tone": "info",
+        "text": "Aircon is not a luxury; it is how paint survives. Budget the bill. A 3-bed on full blast in May is a different number from July in Europe."
+      }
+    ]
+  },
+  {
+    "slug": "mid-autumn-office",
+    "title": "Mid-Autumn, for people with an office",
+    "kicker": "Culture",
+    "category": "culture",
+    "excerpt": "25 September 2026. Someone will give you a box of mooncakes. Here is what to do with it.",
+    "updated": "14 September 2026",
+    "readMinutes": 4,
+    "hero": "/live/kampong-glam.jpg",
+    "tags": [
+      "mid-autumn",
+      "mooncake",
+      "festival",
+      "office"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Mid-Autumn is lanterns and a pastry that is denser than it looks. In an office it is a round of gift boxes: lotus seed, salted egg yolk, the expensive hotel ones, the snow-skin ones from a bakery trying harder."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "If you receive a box, say thank you and leave it in the pantry unless it has your name on it.",
+          "If you give a box, one good one beats four mediocre ones. Do not make it a competition with the other manager.",
+          "Take children to a lantern display once. Chinatown or the Chinese Garden. Buy them a paper lantern that will not survive the MRT."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "You do not need to understand the poetry. You need to not walk past the pantry box like it is strange. It is September in Singapore. Eat the cake."
+      }
+    ]
+  },
+  {
+    "slug": "after-seven",
+    "title": "After 7pm, where does the city go?",
+    "kicker": "Night",
+    "category": "city",
+    "excerpt": "CBD empties. Heartlands cook. A few streets get loud. Knowing which is which is the difference between a night out and a deserted pavement.",
+    "updated": "10 August 2026",
+    "readMinutes": 5,
+    "hero": "/live/marina-bay.jpg",
+    "tags": [
+      "nightlife",
+      "cbd",
+      "holland village",
+      "tiong bahru",
+      "keong saik"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Singapore does not have a 2am culture in most postcodes. It has pockets. Standing on a Monday in Raffles Place at 8.30pm wondering where the people went is a rite of passage."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Weeknight dinner: Tiong Bahru, Joo Chiat, Ann Siang, Keong Saik, Dempsey if someone else is paying.",
+          "Drinks: Duxton, Club Street, Keong Saik, Boat Quay if you like that sort of thing, Tanjong Pagar for the offices that still go out.",
+          "Holland Village is a habit, not a discovery. It still works.",
+          "Late food: 24-hour kopitiams, prata, and the few hawker centres that run late (not as many as you were promised)."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "If you want a city that walks at midnight, you will be disappointed. If you want a city that lets you be in bed at 10.30 and still have had a good evening, you are in the right place."
+      }
+    ]
+  },
+  {
+    "slug": "the-helper",
+    "title": "The helper, if you have one",
+    "kicker": "Family",
+    "category": "family",
+    "excerpt": "A transfer maid is not a subscription. The law is specific. The relationship is the thing that will make or break your household.",
+    "updated": "2 August 2026",
+    "readMinutes": 7,
+    "hero": "/live/playground.jpg",
+    "tags": [
+      "helper",
+      "maid",
+      "mom",
+      "levy",
+      "family"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Many expat households here employ a live-in migrant domestic worker. MOM has rules: rest days, levy, medical, insurance, no illegal deployment. Read them. Then behave like a decent employer on top of the rules."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "A weekly rest day is not a favour. If she works it, pay the extra, in writing.",
+          "Food, a bed that is a bed, and a door that closes.",
+          "Her phone is hers. Her passport should not live in your safe \u201cfor safekeeping\u201d unless she asked.",
+          "You are not her parent. You are her boss, in her home, which is also yours. That is a strange arrangement. Stay strange in the direction of respect."
+        ]
+      },
+      {
+        "type": "callout",
+        "tone": "info",
+        "text": "Budget: salary often S$850\u20131,200 plus levy (S$300 for many households, concessions exist), plus food and medical. The cheap helper is usually expensive in other ways."
+      },
+      {
+        "type": "p",
+        "text": "If you do not want a helper, you can live here without one. Plenty of people do. Do not hire someone because the condo WhatsApp assumes you will."
+      }
+    ]
+  }
+]

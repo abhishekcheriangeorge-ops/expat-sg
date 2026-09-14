@@ -65,6 +65,10 @@ export function kindLabel(kind: SearchDoc["kind"]): string {
       return "School";
     case "tool":
       return "Tool";
+    case "story":
+      return "Live";
+    case "event":
+      return "Event";
     default:
       return "Page";
   }

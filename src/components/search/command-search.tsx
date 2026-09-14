@@ -36,7 +36,7 @@ export function SearchTrigger({ onClick }: { onClick: () => void }) {
       className="flex h-11 w-full min-w-0 items-center gap-2 rounded-md border border-border bg-surface px-3 text-left text-sm text-muted hover:border-fg/30"
     >
       <Search className="size-4 shrink-0" strokeWidth={1.75} />
-      <span className="flex-1 truncate">Search visas, rent, schools…</span>
+      <span className="flex-1 truncate">Search hawker, F1, EP, Katong…</span>
       <kbd className="hidden rounded-sm border border-border bg-sunken px-1.5 py-0.5 font-mono text-[10px] text-subtle sm:inline">
         /
       </kbd>
@@ -96,7 +96,7 @@ export function CommandSearch({
                 void navigate({ to: "/search", search: { q } });
               }
             }}
-            placeholder="EP salary, Tiong Bahru, tax, Tanglin…"
+            placeholder="Hawker, F1, PayNow, Tiong Bahru…"
             className="h-12 w-full bg-transparent text-base text-fg outline-none placeholder:text-subtle"
           />
         </div>

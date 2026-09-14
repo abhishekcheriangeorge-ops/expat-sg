@@ -1,8 +1,8 @@
 {
   "name": "expat.sg",
   "domain": "expat.sg",
-  "tagline": "Singapore, searched.",
-  "description": "The fastest, most current resource for expats in Singapore — visas, housing, tax, schools, neighbourhoods and daily life, updated for 2026.",
+  "tagline": "Singapore, lived in.",
+  "description": "The search-first magazine for expats who live in Singapore \u2014 and people about to. Food, weekends, events, visas, schools, tax. 2026.",
   "updated": "14 September 2026",
   "github": "https://github.com/abhishekcheriangeorge-ops/expat-sg",
   "githubData": "https://github.com/abhishekcheriangeorge-ops/expat-sg/tree/main/data",
@@ -10,6 +10,14 @@
   "advertiseEmail": "advertise@expat.sg",
   "helloEmail": "hello@expat.sg",
   "nav": [
+    {
+      "href": "/live",
+      "label": "Live"
+    },
+    {
+      "href": "/events",
+      "label": "Events"
+    },
     {
       "href": "/guides",
       "label": "Guides"
@@ -81,6 +89,41 @@
     "family": "Family",
     "health": "Healthcare",
     "daily": "Daily life",
-    "schools": "Schools"
-  }
+    "schools": "Schools",
+    "food": "Food",
+    "weekend": "Weekends",
+    "culture": "Culture",
+    "social": "Social",
+    "city": "The city"
+  },
+  "liveCategories": [
+    {
+      "id": "food",
+      "label": "Food"
+    },
+    {
+      "id": "weekend",
+      "label": "Weekends"
+    },
+    {
+      "id": "culture",
+      "label": "Culture"
+    },
+    {
+      "id": "family",
+      "label": "Family"
+    },
+    {
+      "id": "social",
+      "label": "Social"
+    },
+    {
+      "id": "city",
+      "label": "The city"
+    },
+    {
+      "id": "money",
+      "label": "Daily money"
+    }
+  ]
 }

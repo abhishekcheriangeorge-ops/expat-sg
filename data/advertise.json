@@ -3,9 +3,9 @@
     {
       "id": "search-position",
       "name": "Sponsored search position",
-      "price": "S$1,200–2,800",
+      "price": "S$1,200\u20132,800",
       "period": "per month",
-      "blurb": "Own the first or second slot when someone searches a commercial intent keyword — insurance, movers, schools, agents.",
+      "blurb": "Own the first or second slot when someone searches a commercial intent keyword \u2014 insurance, movers, schools, agents.",
       "items": [
         "Pinned result on matching queries",
         "Clearly labelled Sponsored",
@@ -17,7 +17,7 @@
     {
       "id": "directory-featured",
       "name": "Featured directory listing",
-      "price": "S$480–1,400",
+      "price": "S$480\u20131,400",
       "period": "per month",
       "blurb": "Sit above organic listings in your category. Premium tier also lands on the homepage rail.",
       "items": [
@@ -30,9 +30,9 @@
     {
       "id": "sponsored-post",
       "name": "Sponsored guide",
-      "price": "S$1,800–4,200",
+      "price": "S$1,800\u20134,200",
       "period": "per piece",
-      "blurb": "A labelled sponsored guide in the corpus — it ranks in search like any other article, with disclosure.",
+      "blurb": "A labelled sponsored guide in the corpus \u2014 it ranks in search like any other article, with disclosure.",
       "items": [
         "Full guide in the search index",
         "30-day homepage feature",
@@ -52,16 +52,29 @@
         "Category takeover optional",
         "Hyper-local: only people looking at Singapore"
       ]
+    },
+    {
+      "id": "live-story",
+      "name": "Sponsored Live story",
+      "price": "S$2,400\u20135,800",
+      "period": "per piece",
+      "blurb": "A labelled feature in the magazine layer \u2014 food, family, weekends, clubs. Read by people who already spend here every month.",
+      "items": [
+        "Full story in Live + search index",
+        "Homepage magazine slot for 14 days",
+        "Clearly marked Sponsored",
+        "Resident audience, not just inbound"
+      ]
     }
   ],
   "why": [
     {
-      "title": "Intent, not reach",
-      "text": "People land here the week they have an offer letter, a lease to sign, or a school to pick. That is a buying moment."
+      "title": "They already live here",
+      "text": "Schools, insurance, F&B, furniture, helpers, clubs, dentists. The monthly spend is the resident, not the person on the plane."
     },
     {
-      "title": "Hyper-local monopoly of attention",
-      "text": "This is not a lifestyle magazine competing with Instagram. It is a search box for one city."
+      "title": "Inbound is the bonus",
+      "text": "Offer-letter week still converts \u2014 movers, agents, banks. That is on top of the people who grocery-shop every Saturday."
     },
     {
       "title": "Honest labels",

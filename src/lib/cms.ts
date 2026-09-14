@@ -8,6 +8,8 @@ import type {
   School,
   SearchDoc,
   ToolMeta,
+  Story,
+  EventItem,
 } from "@/data/types";
 import { buildSearchIndex } from "@/lib/search-index";
 import siteFallback from "../../data/site.json";
@@ -20,6 +22,8 @@ import appsFallback from "../../data/apps.json";
 import advertiseFallback from "../../data/advertise.json";
 import toolsFallback from "../../data/tools.json";
 import numbersFallback from "../../data/numbers.json";
+import liveFallback from "../../data/live.json";
+import eventsFallback from "../../data/events.json";
 
 export const GITHUB_DATA =
   "https://raw.githubusercontent.com/abhishekcheriangeorge-ops/expat-sg/main/data";
@@ -38,6 +42,7 @@ export type Site = {
   nav: { href: string; label: string }[];
   categories: { id: string; label: string; href: string }[];
   categoryLabel: Record<string, string>;
+  liveCategories: { id: string; label: string }[];
 };
 
 export type NumbersData = {
@@ -92,6 +97,9 @@ export type Corpus = {
   adPackages: AdPackage[];
   adWhy: { title: string; text: string }[];
   tools: ToolMeta[];
+  stories: Story[];
+  events: EventItem[];
+  eventsLead: string;
   searchIndex: SearchDoc[];
   source: "github" | "bundle";
 };
@@ -121,6 +129,8 @@ export async function loadCorpus(): Promise<Corpus> {
     advertise,
     tools,
     numbers,
+    live,
+    events,
   ] = await Promise.all([
     loadFile<Site>("site", siteFallback as Site),
     loadFile<{ stats: Corpus["stats"]; ticker: string[] }>("stats", statsFallback as { stats: Corpus["stats"]; ticker: string[] }),
@@ -138,6 +148,11 @@ export async function loadCorpus(): Promise<Corpus> {
     ),
     loadFile<ToolMeta[]>("tools", toolsFallback as ToolMeta[]),
     loadFile<NumbersData>("numbers", numbersFallback as NumbersData),
+    loadFile<Story[]>("live", liveFallback as Story[]),
+    loadFile<{ updated: string; lead: string; items: EventItem[] }>(
+      "events",
+      eventsFallback as { updated: string; lead: string; items: EventItem[] },
+    ),
   ]);
 
   const github = [
@@ -151,10 +166,17 @@ export async function loadCorpus(): Promise<Corpus> {
     advertise,
     tools,
     numbers,
+    live,
+    events,
   ].filter((f) => f.github).length;
 
   const corpus: Omit<Corpus, "searchIndex"> = {
-    site: site.value,
+    site: {
+      ...(siteFallback as Site),
+      ...site.value,
+      liveCategories: site.value.liveCategories ?? (siteFallback as Site).liveCategories,
+      nav: site.value.nav?.length ? site.value.nav : (siteFallback as Site).nav,
+    },
     stats: stats.value.stats,
     ticker: stats.value.ticker,
     numbers: numbers.value,
@@ -167,6 +189,9 @@ export async function loadCorpus(): Promise<Corpus> {
     adPackages: advertise.value.packages,
     adWhy: advertise.value.why,
     tools: tools.value,
+    stories: live.value,
+    events: events.value.items,
+    eventsLead: events.value.lead,
     source: github >= 5 ? "github" : "bundle",
   };
 

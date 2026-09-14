@@ -12,11 +12,14 @@ import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as AboutRouteImport } from './routes/about'
 import { Route as AdvertiseRouteImport } from './routes/advertise'
+import { Route as EventsRouteImport } from './routes/events'
 import { Route as SearchRouteImport } from './routes/search'
 import { Route as DirectoryIndexRouteImport } from './routes/directory.index'
 import { Route as DirectoryCategoryRouteImport } from './routes/directory.$category'
 import { Route as GuidesIndexRouteImport } from './routes/guides.index'
 import { Route as GuidesSlugRouteImport } from './routes/guides.$slug'
+import { Route as LiveIndexRouteImport } from './routes/live.index'
+import { Route as LiveSlugRouteImport } from './routes/live.$slug'
 import { Route as NeighbourhoodsIndexRouteImport } from './routes/neighbourhoods.index'
 import { Route as NeighbourhoodsSlugRouteImport } from './routes/neighbourhoods.$slug'
 import { Route as ToolsIndexRouteImport } from './routes/tools.index'
@@ -38,6 +41,11 @@ const AboutRoute = AboutRouteImport.update({
 const AdvertiseRoute = AdvertiseRouteImport.update({
   id: '/advertise',
   path: '/advertise',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const EventsRoute = EventsRouteImport.update({
+  id: '/events',
+  path: '/events',
   getParentRoute: () => rootRouteImport,
 } as any)
 const SearchRoute = SearchRouteImport.update({
@@ -63,6 +71,16 @@ const GuidesIndexRoute = GuidesIndexRouteImport.update({
 const GuidesSlugRoute = GuidesSlugRouteImport.update({
   id: '/guides/$slug',
   path: '/guides/$slug',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const LiveIndexRoute = LiveIndexRouteImport.update({
+  id: '/live/',
+  path: '/live/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const LiveSlugRoute = LiveSlugRouteImport.update({
+  id: '/live/$slug',
+  path: '/live/$slug',
   getParentRoute: () => rootRouteImport,
 } as any)
 const NeighbourhoodsIndexRoute = NeighbourhoodsIndexRouteImport.update({
@@ -105,9 +123,11 @@ export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
   '/advertise': typeof AdvertiseRoute
+  '/events': typeof EventsRoute
   '/search': typeof SearchRoute
   '/directory/$category': typeof DirectoryCategoryRoute
   '/guides/$slug': typeof GuidesSlugRoute
+  '/live/$slug': typeof LiveSlugRoute
   '/neighbourhoods/$slug': typeof NeighbourhoodsSlugRoute
   '/tools/compass': typeof ToolsCompassRoute
   '/tools/cost-of-living': typeof ToolsCostOfLivingRoute
@@ -115,6 +135,7 @@ export interface FileRoutesByFullPath {
   '/tools/tax': typeof ToolsTaxRoute
   '/directory/': typeof DirectoryIndexRoute
   '/guides/': typeof GuidesIndexRoute
+  '/live/': typeof LiveIndexRoute
   '/neighbourhoods/': typeof NeighbourhoodsIndexRoute
   '/tools/': typeof ToolsIndexRoute
 }
@@ -122,9 +143,11 @@ export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
   '/advertise': typeof AdvertiseRoute
+  '/events': typeof EventsRoute
   '/search': typeof SearchRoute
   '/directory/$category': typeof DirectoryCategoryRoute
   '/guides/$slug': typeof GuidesSlugRoute
+  '/live/$slug': typeof LiveSlugRoute
   '/neighbourhoods/$slug': typeof NeighbourhoodsSlugRoute
   '/tools/compass': typeof ToolsCompassRoute
   '/tools/cost-of-living': typeof ToolsCostOfLivingRoute
@@ -132,6 +155,7 @@ export interface FileRoutesByTo {
   '/tools/tax': typeof ToolsTaxRoute
   '/directory': typeof DirectoryIndexRoute
   '/guides': typeof GuidesIndexRoute
+  '/live': typeof LiveIndexRoute
   '/neighbourhoods': typeof NeighbourhoodsIndexRoute
   '/tools': typeof ToolsIndexRoute
 }
@@ -140,9 +164,11 @@ export interface FileRoutesById {
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
   '/advertise': typeof AdvertiseRoute
+  '/events': typeof EventsRoute
   '/search': typeof SearchRoute
   '/directory/$category': typeof DirectoryCategoryRoute
   '/guides/$slug': typeof GuidesSlugRoute
+  '/live/$slug': typeof LiveSlugRoute
   '/neighbourhoods/$slug': typeof NeighbourhoodsSlugRoute
   '/tools/compass': typeof ToolsCompassRoute
   '/tools/cost-of-living': typeof ToolsCostOfLivingRoute
@@ -150,6 +176,7 @@ export interface FileRoutesById {
   '/tools/tax': typeof ToolsTaxRoute
   '/directory/': typeof DirectoryIndexRoute
   '/guides/': typeof GuidesIndexRoute
+  '/live/': typeof LiveIndexRoute
   '/neighbourhoods/': typeof NeighbourhoodsIndexRoute
   '/tools/': typeof ToolsIndexRoute
 }
@@ -159,9 +186,11 @@ export interface FileRouteTypes {
     | '/'
     | '/about'
     | '/advertise'
+    | '/events'
     | '/search'
     | '/directory/$category'
     | '/guides/$slug'
+    | '/live/$slug'
     | '/neighbourhoods/$slug'
     | '/tools/compass'
     | '/tools/cost-of-living'
@@ -169,6 +198,7 @@ export interface FileRouteTypes {
     | '/tools/tax'
     | '/directory/'
     | '/guides/'
+    | '/live/'
     | '/neighbourhoods/'
     | '/tools/'
   fileRoutesByTo: FileRoutesByTo
@@ -176,9 +206,11 @@ export interface FileRouteTypes {
     | '/'
     | '/about'
     | '/advertise'
+    | '/events'
     | '/search'
     | '/directory/$category'
     | '/guides/$slug'
+    | '/live/$slug'
     | '/neighbourhoods/$slug'
     | '/tools/compass'
     | '/tools/cost-of-living'
@@ -186,6 +218,7 @@ export interface FileRouteTypes {
     | '/tools/tax'
     | '/directory'
     | '/guides'
+    | '/live'
     | '/neighbourhoods'
     | '/tools'
   id:
@@ -193,9 +226,11 @@ export interface FileRouteTypes {
     | '/'
     | '/about'
     | '/advertise'
+    | '/events'
     | '/search'
     | '/directory/$category'
     | '/guides/$slug'
+    | '/live/$slug'
     | '/neighbourhoods/$slug'
     | '/tools/compass'
     | '/tools/cost-of-living'
@@ -203,6 +238,7 @@ export interface FileRouteTypes {
     | '/tools/tax'
     | '/directory/'
     | '/guides/'
+    | '/live/'
     | '/neighbourhoods/'
     | '/tools/'
   fileRoutesById: FileRoutesById
@@ -211,9 +247,11 @@ export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   AboutRoute: typeof AboutRoute
   AdvertiseRoute: typeof AdvertiseRoute
+  EventsRoute: typeof EventsRoute
   SearchRoute: typeof SearchRoute
   DirectoryCategoryRoute: typeof DirectoryCategoryRoute
   GuidesSlugRoute: typeof GuidesSlugRoute
+  LiveSlugRoute: typeof LiveSlugRoute
   NeighbourhoodsSlugRoute: typeof NeighbourhoodsSlugRoute
   ToolsCompassRoute: typeof ToolsCompassRoute
   ToolsCostOfLivingRoute: typeof ToolsCostOfLivingRoute
@@ -221,6 +259,7 @@ export interface RootRouteChildren {
   ToolsTaxRoute: typeof ToolsTaxRoute
   DirectoryIndexRoute: typeof DirectoryIndexRoute
   GuidesIndexRoute: typeof GuidesIndexRoute
+  LiveIndexRoute: typeof LiveIndexRoute
   NeighbourhoodsIndexRoute: typeof NeighbourhoodsIndexRoute
   ToolsIndexRoute: typeof ToolsIndexRoute
 }
@@ -246,6 +285,13 @@ declare module '@tanstack/react-router' {
       path: '/advertise'
       fullPath: '/advertise'
       preLoaderRoute: typeof AdvertiseRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/events': {
+      id: '/events'
+      path: '/events'
+      fullPath: '/events'
+      preLoaderRoute: typeof EventsRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/search': {
@@ -281,6 +327,20 @@ declare module '@tanstack/react-router' {
       path: '/guides/$slug'
       fullPath: '/guides/$slug'
       preLoaderRoute: typeof GuidesSlugRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/live/': {
+      id: '/live/'
+      path: '/live'
+      fullPath: '/live/'
+      preLoaderRoute: typeof LiveIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/live/$slug': {
+      id: '/live/$slug'
+      path: '/live/$slug'
+      fullPath: '/live/$slug'
+      preLoaderRoute: typeof LiveSlugRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/neighbourhoods/': {
@@ -339,9 +399,11 @@ const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   AboutRoute: AboutRoute,
   AdvertiseRoute: AdvertiseRoute,
+  EventsRoute: EventsRoute,
   SearchRoute: SearchRoute,
   DirectoryCategoryRoute: DirectoryCategoryRoute,
   GuidesSlugRoute: GuidesSlugRoute,
+  LiveSlugRoute: LiveSlugRoute,
   NeighbourhoodsSlugRoute: NeighbourhoodsSlugRoute,
   ToolsCompassRoute: ToolsCompassRoute,
   ToolsCostOfLivingRoute: ToolsCostOfLivingRoute,
@@ -349,6 +411,7 @@ const rootRouteChildren: RootRouteChildren = {
   ToolsTaxRoute: ToolsTaxRoute,
   DirectoryIndexRoute: DirectoryIndexRoute,
   GuidesIndexRoute: GuidesIndexRoute,
+  LiveIndexRoute: LiveIndexRoute,
   NeighbourhoodsIndexRoute: NeighbourhoodsIndexRoute,
   ToolsIndexRoute: ToolsIndexRoute,
 }

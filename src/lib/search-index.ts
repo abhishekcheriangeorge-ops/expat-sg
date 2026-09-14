@@ -1,4 +1,4 @@
-import type { Guide, Neighbourhood, Listing, School, ToolMeta, SearchDoc } from "@/data/types";
+import type { Guide, Neighbourhood, Listing, School, ToolMeta, SearchDoc, Story, EventItem } from "@/data/types";
 
 export function buildSearchIndex(input: {
   site: { description: string };
@@ -7,6 +7,8 @@ export function buildSearchIndex(input: {
   listings: Listing[];
   schools: School[];
   tools: ToolMeta[];
+  stories?: Story[];
+  events?: EventItem[];
 }): SearchDoc[] {
   const docs: SearchDoc[] = [];
 
@@ -84,6 +86,43 @@ export function buildSearchIndex(input: {
       excerpt: t.excerpt,
       tags: t.tags,
       weight: 7,
+    });
+  }
+
+
+  for (const s of input.stories ?? []) {
+    const bodyText = s.body
+      .map((b) => {
+        if (b.type === "p" || b.type === "h2" || b.type === "h3") return b.text;
+        if (b.type === "callout") return `${b.title ?? ""} ${b.text}`;
+        if (b.type === "ul" || b.type === "ol") return b.items.join(" ");
+        return "";
+      })
+      .join(" ");
+    docs.push({
+      id: `story:${s.slug}`,
+      kind: "story",
+      title: s.title,
+      href: `/live/${s.slug}`,
+      excerpt: s.excerpt,
+      tags: [...s.tags, s.category, "live", "magazine"],
+      sponsored: s.sponsored,
+      sponsorName: s.sponsorName,
+      weight: s.featured ? 9 : 7,
+      blob: bodyText,
+    });
+  }
+
+  for (const e of input.events ?? []) {
+    docs.push({
+      id: `event:${e.id}`,
+      kind: "event",
+      title: e.title,
+      href: e.href.startsWith("/") ? e.href : "/events",
+      excerpt: `${e.dates} · ${e.venue}. ${e.blurb}`,
+      tags: [e.kind, "events", "whats on", e.title],
+      sponsored: e.sponsored,
+      weight: e.featured ? 8 : 6,
     });
   }
 

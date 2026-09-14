@@ -18,6 +18,8 @@ If GitHub is unreachable, the app falls back to the JSON bundled at last build.
 | `tools.json` | Calculator index |
 | `apps.json` | Must-have apps |
 | `advertise.json` | Ad packages |
+| `live.json` | Magazine stories (food, weekends, culture, family) |
+| `events.json` | What’s-on calendar |
 
 Raw URL pattern:
 

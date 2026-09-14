@@ -26,7 +26,7 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
           <AppLink to="/" className="shrink-0 font-display text-lg font-semibold tracking-tight sm:text-xl">
             expat<span className="text-primary">.sg</span>
           </AppLink>
-          <nav className="hidden items-center gap-5 lg:flex">
+          <nav className="hidden items-center gap-4 xl:flex">
             {nav.map((n) => (
               <AppLink
                 key={n.href}
@@ -51,7 +51,7 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
             </button>
             <button
               type="button"
-              className="flex size-11 items-center justify-center rounded-md border border-border lg:hidden"
+              className="flex size-11 items-center justify-center rounded-md border border-border xl:hidden"
               onClick={() => setMenuOpen((v) => !v)}
               aria-label={menuOpen ? "Close menu" : "Open menu"}
             >
@@ -60,7 +60,7 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
           </div>
         </div>
         {menuOpen ? (
-          <div className="border-t border-border bg-surface lg:hidden">
+          <div className="border-t border-border bg-surface xl:hidden">
             <nav className="mx-auto flex max-w-6xl flex-col px-4 py-2">
               {nav.map((n) => (
                 <AppLink

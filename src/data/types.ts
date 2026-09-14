@@ -100,7 +100,7 @@ export type AppRec = {
 
 export type SearchDoc = {
   id: string;
-  kind: "guide" | "neighbourhood" | "listing" | "school" | "tool" | "page";
+  kind: "guide" | "neighbourhood" | "listing" | "school" | "tool" | "page" | "story" | "event";
   title: string;
   href: string;
   excerpt: string;
@@ -128,3 +128,35 @@ export type AdPackage = {
   items: string[];
   featured?: boolean;
 };
+
+export type LiveCategory = "food" | "weekend" | "culture" | "family" | "social" | "city" | "money";
+
+export type Story = {
+  slug: string;
+  title: string;
+  kicker: string;
+  category: LiveCategory;
+  excerpt: string;
+  updated: string;
+  readMinutes: number;
+  tags: string[];
+  featured?: boolean;
+  hero?: string;
+  sponsored?: boolean;
+  sponsorName?: string;
+  body: Block[];
+};
+
+export type EventItem = {
+  id: string;
+  title: string;
+  dates: string;
+  when: string;
+  venue: string;
+  kind: string;
+  blurb: string;
+  href: string;
+  featured?: boolean;
+  sponsored?: boolean;
+};
+

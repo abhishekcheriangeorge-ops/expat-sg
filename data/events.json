@@ -1,0 +1,87 @@
+{
+  "updated": "14 September 2026",
+  "lead": "What the island is doing. Not a tourist brochure \u2014 the weeks a resident actually plans around.",
+  "items": [
+    {
+      "id": "mid-autumn-2026",
+      "title": "Mid-Autumn Festival",
+      "dates": "25 September 2026",
+      "when": "2026-09-25",
+      "venue": "Chinatown, Chinese Garden, every office pantry",
+      "kind": "festival",
+      "blurb": "Mooncakes, lanterns, a public-holiday-adjacent Friday. Eat the snow-skin. Take the kids out once.",
+      "href": "/live/mid-autumn-office"
+    },
+    {
+      "id": "f1-2026",
+      "title": "Formula 1 Singapore Grand Prix",
+      "dates": "9\u201311 October 2026",
+      "when": "2026-10-09",
+      "venue": "Marina Bay Street Circuit",
+      "kind": "sport",
+      "blurb": "First Sprint weekend here. The Killers Saturday, Lana Del Rey Sunday. Road closures 7\u201313 Oct. Last trains late from City Hall.",
+      "href": "/live/f1-month-if-you-live-here",
+      "featured": true
+    },
+    {
+      "id": "f1-closures",
+      "title": "Marina Centre road closures",
+      "dates": "7\u201313 October 2026",
+      "when": "2026-10-07",
+      "venue": "Marina Centre / Padang",
+      "kind": "city",
+      "blurb": "LTA: roads shut 12.01am 7 Oct, fully open 5.30am 13 Oct. Work from home. Do not drive to the bay.",
+      "href": "/live/f1-month-if-you-live-here"
+    },
+    {
+      "id": "deepavali-2026",
+      "title": "Deepavali",
+      "dates": "8 November 2026",
+      "when": "2026-11-08",
+      "venue": "Little India",
+      "kind": "festival",
+      "blurb": "The lights go up weeks before. Go in the evening. Eat. It is a public holiday.",
+      "href": "/live/public-holidays-2026"
+    },
+    {
+      "id": "parkrun",
+      "title": "Parkrun (every Saturday)",
+      "dates": "Saturdays, 7.30am",
+      "when": "recurring",
+      "venue": "East Coast, West Coast and others",
+      "kind": "sport",
+      "blurb": "Free 5 km. The most reliable way to see the same people every week without joining a club with a joining fee.",
+      "href": "/live/sports-clubs-repeating-rooms"
+    },
+    {
+      "id": "ubi-bumboat",
+      "title": "Pulau Ubin weekends",
+      "dates": "Every weekend",
+      "when": "recurring",
+      "venue": "Changi Point ferry",
+      "kind": "weekend",
+      "blurb": "Bumboats when full. Last boat back is not a suggestion. Bicycle at the jetty.",
+      "href": "/live/weekend-that-isnt-orchard"
+    },
+    {
+      "id": "esplanade-free",
+      "title": "Esplanade free stages",
+      "dates": "Most weekends",
+      "when": "recurring",
+      "venue": "Esplanade \u2013 Theatres on the Bay",
+      "kind": "arts",
+      "blurb": "Concourse and outdoor performances that are actually good. Aircon adjacent. Check the month\u2019s grid.",
+      "href": "/live/after-seven"
+    },
+    {
+      "id": "night-festival-hangover",
+      "title": "Museum late nights",
+      "dates": "Check NMS / National Gallery",
+      "when": "recurring",
+      "venue": "Civic District",
+      "kind": "arts",
+      "blurb": "When the Civic District stays open after dinner. The cheapest date that still feels like the city.",
+      "href": "/live/after-seven"
+    }
+  ]
+}
