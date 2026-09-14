@@ -729,5 +729,58 @@
       "nel",
       "deepavali"
     ]
+  },
+  {
+    "slug": "queenstown-redhill",
+    "name": "Queenstown / Redhill",
+    "district": "D03",
+    "region": "RCR",
+    "blurb": "The first satellite town, still the practical one. TEL, NUH, Brickworks hawker, IKEA Alexandra, Dawson stacks. Tiong Bahru’s quieter, cheaper cousin — not the shophouse postcard.",
+    "bestFor": [
+      "NUH / one-north workers",
+      "No-car households",
+      "Space vs Tanjong Pagar"
+    ],
+    "vibe": "Heartland high-rise, wet market mornings, TEL at the door. Weekend is Tiong Bahru or Holland, not here.",
+    "mrt": [
+      "Queenstown (EWL)",
+      "Commonwealth (EWL)",
+      "Redhill (EWL)",
+      "Dawson (TEL)",
+      "Margaret Drive (TEL)"
+    ],
+    "commuteCbd": "12–22 min",
+    "rent1br": [
+      2600,
+      4000
+    ],
+    "rent2br": [
+      3800,
+      6000
+    ],
+    "rent3br": [
+      5000,
+      8500
+    ],
+    "schools": [
+      "Queenstown / Crescent Girls catchment",
+      "International: a bus to Tanglin or Dover, not a walk"
+    ],
+    "eat": [
+      "ABC Brickworks",
+      "Zion Riverside",
+      "Commonwealth Crescent",
+      "Dawson / Margaret Drive hawker"
+    ],
+    "watch": "Do not confuse this with Tiong Bahru just because the postcode is adjacent. You are here for the train, the hospital, and the hawker. Conservation charm is two stops east.",
+    "tags": [
+      "queenstown",
+      "redhill",
+      "dawson",
+      "d3",
+      "tel",
+      "nuh",
+      "heartland"
+    ]
   }
 ]
