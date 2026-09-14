@@ -1,0 +1,581 @@
+[
+  {
+    "slug": "holland-village",
+    "name": "Holland Village",
+    "district": "D10",
+    "region": "CCR",
+    "blurb": "The classic first-landing expat neighbourhood: cafes, bars, a wet market, and an MRT on the Circle Line. Walkable, social, and priced like it.",
+    "bestFor": [
+      "First arrivals",
+      "Couples",
+      "Social life"
+    ],
+    "vibe": "Leafy high-street, weekend crowds, old-school expat hangout that still works.",
+    "mrt": [
+      "Holland Village (CCL)"
+    ],
+    "commuteCbd": "18–25 min",
+    "rent1br": [
+      3200,
+      4800
+    ],
+    "rent2br": [
+      4500,
+      8000
+    ],
+    "rent3br": [
+      7000,
+      12000
+    ],
+    "schools": [
+      "Tanglin Trust (bus)",
+      "UWCSEA Dover (bus)",
+      "Chatsworth"
+    ],
+    "eat": [
+      "Holland Drive Market",
+      "Chip Bee Gardens",
+      "Lorong Mambong"
+    ],
+    "watch": "Weekend noise on the strip. Demand stays firm; negotiate on 2-year leases.",
+    "tags": [
+      "holland",
+      "d10",
+      "expat",
+      "cafes",
+      "circle line"
+    ]
+  },
+  {
+    "slug": "tanjong-pagar",
+    "name": "Tanjong Pagar",
+    "district": "D02",
+    "region": "CCR",
+    "blurb": "Finance and tech workers live on top of the office. Korean and Japanese food, Duxton shophouses, and a five-minute walk to Tanjong Pagar MRT.",
+    "bestFor": [
+      "CBD professionals",
+      "Singles",
+      "No-car households"
+    ],
+    "vibe": "Urban, loud at lunch, quiet-ish at night once the suits leave.",
+    "mrt": [
+      "Tanjong Pagar (EWL)",
+      "Maxwell (TEL)",
+      "Outram Park"
+    ],
+    "commuteCbd": "5–12 min walk",
+    "rent1br": [
+      3400,
+      5200
+    ],
+    "rent2br": [
+      4800,
+      7500
+    ],
+    "rent3br": [
+      7000,
+      11000
+    ],
+    "schools": [
+      "Limited nearby — expect a bus"
+    ],
+    "eat": [
+      "Duxton Road",
+      "Amoy Street",
+      "Tanjong Pagar Plaza hawker"
+    ],
+    "watch": "Smaller units. Parking is painful. Great if you never want a car.",
+    "tags": [
+      "cbd",
+      "tanjong pagar",
+      "duxton",
+      "finance",
+      "tel"
+    ]
+  },
+  {
+    "slug": "river-valley",
+    "name": "River Valley / Orchard",
+    "district": "D09",
+    "region": "CCR",
+    "blurb": "Prime, central, and unapologetically expensive. Orchard shopping, Robertson Quay drinks, and condos that sell the skyline.",
+    "bestFor": [
+      "High budget",
+      "Short stays",
+      "Corporate packages"
+    ],
+    "vibe": "Polished, tourist-adjacent, every amenity stacked on top of itself.",
+    "mrt": [
+      "Orchard",
+      "Somerset",
+      "Great World",
+      "Fort Canning"
+    ],
+    "commuteCbd": "10–18 min",
+    "rent1br": [
+      3800,
+      6000
+    ],
+    "rent2br": [
+      5500,
+      10000
+    ],
+    "rent3br": [
+      8500,
+      18000
+    ],
+    "schools": [
+      "ISS International",
+      "Chatsworth Orchard",
+      "EtonHouse Orchard"
+    ],
+    "eat": [
+      "Robertson Quay",
+      "Orchard Road",
+      "Mohamed Sultan"
+    ],
+    "watch": "You pay for the postcode. Families often get more space in D10 or D15 for the same money.",
+    "tags": [
+      "orchard",
+      "river valley",
+      "d9",
+      "prime",
+      "robertson"
+    ]
+  },
+  {
+    "slug": "tiong-bahru",
+    "name": "Tiong Bahru",
+    "district": "D03",
+    "region": "RCR",
+    "blurb": "Art-deco low-rise, independent cafes, a legendary wet market, and two MRT lines. The neighbourhood that made 'old Singapore' fashionable.",
+    "bestFor": [
+      "Couples",
+      "Walkers",
+      "Food people"
+    ],
+    "vibe": "Village-in-the-city. Brunch queues, heritage blocks, slightly smug — earned.",
+    "mrt": [
+      "Tiong Bahru (EWL)",
+      "Outram Park (EWL/NEL/TEL)"
+    ],
+    "commuteCbd": "10–15 min",
+    "rent1br": [
+      2800,
+      4200
+    ],
+    "rent2br": [
+      3800,
+      6500
+    ],
+    "rent3br": [
+      5500,
+      9000
+    ],
+    "schools": [
+      "Zhangde Primary (local)",
+      "nearby international via bus"
+    ],
+    "eat": [
+      "Tiong Bahru Market",
+      "Yong Hui",
+      "Tiong Poh Road"
+    ],
+    "watch": "Limited new condo stock. HDB rentals here are competitive; check eligibility.",
+    "tags": [
+      "tiong bahru",
+      "heritage",
+      "cafes",
+      "rcr"
+    ]
+  },
+  {
+    "slug": "east-coast",
+    "name": "East Coast / Katong",
+    "district": "D15",
+    "region": "RCR",
+    "blurb": "Sea breeze, Peranakan shophouses, longer units for the money, and the Thomson-East Coast Line making this a genuine CBD alternative.",
+    "bestFor": [
+      "Families",
+      "Beach lifestyle",
+      "Value vs CCR"
+    ],
+    "vibe": "Laid-back east. Joo Chiat nights, East Coast Park mornings, chilli crab.",
+    "mrt": [
+      "Marine Parade (TEL)",
+      "Tanjong Katong (TEL)",
+      "Marine Terrace"
+    ],
+    "commuteCbd": "20–30 min",
+    "rent1br": [
+      2600,
+      4000
+    ],
+    "rent2br": [
+      4000,
+      7000
+    ],
+    "rent3br": [
+      5500,
+      9500
+    ],
+    "schools": [
+      "Chatsworth East",
+      "CIS Tanjong Katong",
+      "Dunman High (local)"
+    ],
+    "eat": [
+      "Joo Chiat",
+      "East Coast Lagoon",
+      "Katong laksa stretch"
+    ],
+    "watch": "TEL has changed the calculus. Rents have firmed since the line opened.",
+    "tags": [
+      "east coast",
+      "katong",
+      "joo chiat",
+      "d15",
+      "tel",
+      "beach"
+    ]
+  },
+  {
+    "slug": "bukit-timah",
+    "name": "Bukit Timah",
+    "district": "D10 / D21",
+    "region": "CCR",
+    "blurb": "Green, hilly, and built around schools. Landed houses, older condos, the Rail Corridor, and a quieter life than Holland V.",
+    "bestFor": [
+      "Families",
+      "School run",
+      "Nature"
+    ],
+    "vibe": "Residential, greenery, weekend cycling. Not a nightlife district.",
+    "mrt": [
+      "Beauty World",
+      "King Albert Park",
+      "Sixth Avenue",
+      "Tan Kah Kee"
+    ],
+    "commuteCbd": "20–30 min",
+    "rent1br": [
+      2800,
+      4200
+    ],
+    "rent2br": [
+      4500,
+      8500
+    ],
+    "rent3br": [
+      6500,
+      14000
+    ],
+    "schools": [
+      "Tanglin Trust",
+      "Nexus",
+      "Hwa Chong",
+      "Nanyang Girls",
+      "RI"
+    ],
+    "eat": [
+      "Beauty World Centre",
+      "Sixth Avenue",
+      "Rail Mall"
+    ],
+    "watch": "You live here for schools and space, not F&B. Car is useful but not mandatory.",
+    "tags": [
+      "bukit timah",
+      "schools",
+      "green",
+      "landed",
+      "d10"
+    ]
+  },
+  {
+    "slug": "woodlands",
+    "name": "Woodlands",
+    "district": "D25",
+    "region": "OCR",
+    "blurb": "The American-school belt. Larger condos, Causeway convenience, and a real trade-off: you are in the far north.",
+    "bestFor": [
+      "SAS families",
+      "Space on a budget",
+      "Malaysia weekenders"
+    ],
+    "vibe": "Suburban, mall-centric, family. Weekend trips across the Causeway.",
+    "mrt": [
+      "Woodlands (NSL/TEL)",
+      "Woodlands South",
+      "Admiralty"
+    ],
+    "commuteCbd": "40–55 min",
+    "rent1br": [
+      2200,
+      3200
+    ],
+    "rent2br": [
+      3000,
+      4800
+    ],
+    "rent3br": [
+      4000,
+      6500
+    ],
+    "schools": [
+      "Singapore American School",
+      "SILingual options limited"
+    ],
+    "eat": [
+      "Causeway Point",
+      "Woodlands Waterfront",
+      "Marsiling"
+    ],
+    "watch": "Great if the school is SAS. Painful if your office is in the CBD five days a week.",
+    "tags": [
+      "woodlands",
+      "sas",
+      "north",
+      "ocr",
+      "family"
+    ]
+  },
+  {
+    "slug": "serangoon",
+    "name": "Serangoon / Kovan",
+    "district": "D19",
+    "region": "OCR",
+    "blurb": "Australian and French school catchment, NEL access, heartland malls, and more square footage than the centre.",
+    "bestFor": [
+      "AIS / LFS families",
+      "Heartland living"
+    ],
+    "vibe": "Residential heartland with a strong school-run rhythm.",
+    "mrt": [
+      "Serangoon (NEL/CCL)",
+      "Kovan",
+      "Lorong Chuan"
+    ],
+    "commuteCbd": "25–35 min",
+    "rent1br": [
+      2300,
+      3400
+    ],
+    "rent2br": [
+      3500,
+      5800
+    ],
+    "rent3br": [
+      4800,
+      7500
+    ],
+    "schools": [
+      "Australian International School",
+      "Lycée Français (bus)"
+    ],
+    "eat": [
+      "Nex",
+      "Kovan Heartland Mall",
+      "Chomp Chomp"
+    ],
+    "watch": "Check school bus routes before you sign. A 2km difference matters at 7am.",
+    "tags": [
+      "serangoon",
+      "kovan",
+      "ais",
+      "nel",
+      "family"
+    ]
+  },
+  {
+    "slug": "newton-novena",
+    "name": "Newton / Novena",
+    "district": "D11",
+    "region": "CCR",
+    "blurb": "Hospitals, good food, and a straight shot down the North-South Line. Underrated for professionals who want central without Orchard prices.",
+    "bestFor": [
+      "Professionals",
+      "Medical access",
+      "Balanced central"
+    ],
+    "vibe": "Grown-up central. Newton hawker, medical hub, older condos with size.",
+    "mrt": [
+      "Newton (NSL/DTL)",
+      "Novena",
+      "Stevens"
+    ],
+    "commuteCbd": "12–20 min",
+    "rent1br": [
+      3000,
+      4500
+    ],
+    "rent2br": [
+      4500,
+      7500
+    ],
+    "rent3br": [
+      6500,
+      11000
+    ],
+    "schools": [
+      "ACS ( Barker )",
+      "SJII (bus)"
+    ],
+    "eat": [
+      "Newton Food Centre",
+      "United Square",
+      "Balestier"
+    ],
+    "watch": "Novena is a medical cluster — traffic around Mount E and TTSH is real.",
+    "tags": [
+      "newton",
+      "novena",
+      "d11",
+      "nsl",
+      "central"
+    ]
+  },
+  {
+    "slug": "harbourfront-sentosa",
+    "name": "HarbourFront / Sentosa",
+    "district": "D04",
+    "region": "RCR",
+    "blurb": "Water, malls, and the island. Sentosa condos are a lifestyle purchase; HarbourFront is more practical with the Circle and North-East lines.",
+    "bestFor": [
+      "Resort living",
+      "Families who want the beach"
+    ],
+    "vibe": "Weekend-every-day on Sentosa; transit hub at HarbourFront.",
+    "mrt": [
+      "HarbourFront (NEL/CCL)"
+    ],
+    "commuteCbd": "15–25 min",
+    "rent1br": [
+      2800,
+      4500
+    ],
+    "rent2br": [
+      4200,
+      8000
+    ],
+    "rent3br": [
+      6000,
+      14000
+    ],
+    "schools": [
+      "ISF / ISS nearby",
+      "Sentosa options limited"
+    ],
+    "eat": [
+      "VivoCity",
+      "Sentosa boardwalk",
+      "Telok Blangah"
+    ],
+    "watch": "Sentosa has extra costs (island fees, fewer buses). Test the commute at rush hour.",
+    "tags": [
+      "sentosa",
+      "harbourfront",
+      "vivo",
+      "beach"
+    ]
+  },
+  {
+    "slug": "clementi-west-coast",
+    "name": "Clementi / West Coast",
+    "district": "D05",
+    "region": "RCR",
+    "blurb": "NUS, one-north, science parks, and a west-side value play. Strong MRT, hawker centres that locals actually use, and Dover/Clementi school buses.",
+    "bestFor": [
+      "University / one-north",
+      "Value",
+      "Researchers"
+    ],
+    "vibe": "Academic-west. Practical, less polished, better food than the marketing suggests.",
+    "mrt": [
+      "Clementi",
+      "Dover",
+      "Kent Ridge",
+      "Haw Par Villa",
+      "Pasir Panjang"
+    ],
+    "commuteCbd": "20–30 min",
+    "rent1br": [
+      2400,
+      3600
+    ],
+    "rent2br": [
+      3500,
+      5800
+    ],
+    "rent3br": [
+      4800,
+      8000
+    ],
+    "schools": [
+      "UWCSEA Dover",
+      "ISS",
+      "ACS(I) (bus)"
+    ],
+    "eat": [
+      "Clementi 448 Market",
+      "West Coast Drive",
+      "Pasir Panjang hawker"
+    ],
+    "watch": "one-north workers should look at Buona Vista / one-north condos first.",
+    "tags": [
+      "clementi",
+      "west coast",
+      "nus",
+      "one-north",
+      "d5"
+    ]
+  },
+  {
+    "slug": "punggol-sengkang",
+    "name": "Punggol / Sengkang",
+    "district": "D19",
+    "region": "OCR",
+    "blurb": "New waterfront towns, North-East Line, and some of the best new-condo value on the island. Young families, not the classic expat trail.",
+    "bestFor": [
+      "Young families",
+      "New stock",
+      "Budget"
+    ],
+    "vibe": "Planned new town. Waterway, playgrounds, malls, longish CBD ride.",
+    "mrt": [
+      "Punggol",
+      "Sengkang",
+      "Buangkok",
+      "Punggol Coast"
+    ],
+    "commuteCbd": "35–45 min",
+    "rent1br": [
+      2200,
+      3200
+    ],
+    "rent2br": [
+      3000,
+      4800
+    ],
+    "rent3br": [
+      4000,
+      6200
+    ],
+    "schools": [
+      "Mostly local MOE",
+      "GIS / other internationals by bus"
+    ],
+    "eat": [
+      "Waterway Point",
+      "Compass One",
+      "Punggol Settlement"
+    ],
+    "watch": "International school buses are longer. Great if you do not need a D10 postcode.",
+    "tags": [
+      "punggol",
+      "sengkang",
+      "nel",
+      "new town",
+      "value"
+    ]
+  }
+]

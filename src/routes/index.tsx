@@ -5,33 +5,25 @@ import { AppLink } from "@/components/app-link";
 import { Page, Eyebrow } from "@/components/page";
 import { SearchTrigger, CommandSearch } from "@/components/search/command-search";
 import { SponsoredBadge } from "@/components/sponsored";
-import {
-  CATEGORIES,
-  SITE,
-  STATS,
-  TICKER,
-  guides,
-  listings,
-  neighbourhoods,
-  tools,
-} from "@/data";
+import { useCorpus } from "@/lib/corpus";
 import { sgd } from "@/lib/utils";
 
 export const Route = createFileRoute("/")({ component: Home });
 
 function Home() {
+  const { site, stats, ticker: tickerSrc, guides, listings, neighbourhoods, tools } = useCorpus();
   const [open, setOpen] = useState(false);
   const featured = guides.filter((g) => g.featured).slice(0, 6);
   const premium = listings.filter((l) => l.sponsorTier === "premium");
   const navigate = useNavigate();
 
-  const ticker = useMemo(() => [...TICKER, ...TICKER], []);
+  const ticker = useMemo(() => [...tickerSrc, ...tickerSrc], [tickerSrc]);
 
   return (
     <div>
       <section className="border-b border-border bg-surface">
         <Page className="py-10 sm:py-16">
-          <Eyebrow>Updated {SITE.updated}</Eyebrow>
+          <Eyebrow>Updated {site.updated}</Eyebrow>
           <h1 className="mt-3 max-w-3xl font-display text-4xl font-medium leading-[1.05] tracking-tight sm:text-6xl">
             Singapore, searched.
           </h1>
@@ -44,7 +36,7 @@ function Home() {
             <p className="mt-2 text-xs text-subtle">Press / or ⌘K. Sponsored slots are labelled.</p>
           </div>
           <div className="mt-8 flex flex-wrap gap-2">
-            {CATEGORIES.map((c) => (
+            {site.categories.map((c) => (
               <AppLink
                 key={c.id}
                 to={c.href}
@@ -68,7 +60,7 @@ function Home() {
 
       <Page>
         <div className="grid gap-px overflow-hidden rounded-xl border border-border bg-border sm:grid-cols-3 lg:grid-cols-6">
-          {STATS.map((s) => (
+          {stats.map((s) => (
             <div key={s.label} className="bg-surface px-4 py-5">
               <p className="font-display text-2xl font-medium tabular-nums tracking-tight">{s.value}</p>
               <p className="mt-1 text-xs font-medium">{s.label}</p>

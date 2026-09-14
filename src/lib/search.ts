@@ -1,4 +1,3 @@
-import { SEARCH_INDEX } from "@/data";
 import type { SearchDoc } from "@/data/types";
 
 function tokens(q: string): string[] {
@@ -13,18 +12,16 @@ function haystack(doc: SearchDoc): string {
   return `${doc.title} ${doc.excerpt} ${doc.blob ?? ""} ${doc.tags.join(" ")}`.toLowerCase();
 }
 
-export function searchDocs(query: string, limit = 24): SearchDoc[] {
+export function searchDocs(index: SearchDoc[], query: string, limit = 24): SearchDoc[] {
   const q = query.trim();
   if (!q) {
-    return [...SEARCH_INDEX]
-      .sort((a, b) => b.weight - a.weight)
-      .slice(0, limit);
+    return [...index].sort((a, b) => b.weight - a.weight).slice(0, limit);
   }
   const tks = tokens(q);
   if (tks.length === 0) return [];
 
   const scored: { doc: SearchDoc; score: number }[] = [];
-  for (const doc of SEARCH_INDEX) {
+  for (const doc of index) {
     const hay = haystack(doc);
     let score = 0;
     const title = doc.title.toLowerCase();

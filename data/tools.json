@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "ep-salary",
+    "title": "EP salary check",
+    "excerpt": "Age + sector against the 2026 MOM qualifying salary. Not a COMPASS score.",
+    "href": "/tools/ep-salary",
+    "tags": [
+      "ep",
+      "employment pass",
+      "salary",
+      "mom",
+      "threshold"
+    ]
+  },
+  {
+    "slug": "compass",
+    "title": "COMPASS scorer",
+    "excerpt": "C1–C6 points. 40 to pass. S$22,500/mo exempts you.",
+    "href": "/tools/compass",
+    "tags": [
+      "compass",
+      "ep",
+      "points",
+      "mom"
+    ]
+  },
+  {
+    "slug": "tax",
+    "title": "Income tax",
+    "excerpt": "YA 2026 resident brackets, 0–24%. Non-resident employment at 15% floor.",
+    "href": "/tools/tax",
+    "tags": [
+      "tax",
+      "iras",
+      "gst",
+      "cpf"
+    ]
+  },
+  {
+    "slug": "cost-of-living",
+    "title": "Cost of living",
+    "excerpt": "Rent, food, school, helper, transport — a monthly picture, not a fantasy budget.",
+    "href": "/tools/cost-of-living",
+    "tags": [
+      "cost",
+      "budget",
+      "rent",
+      "school"
+    ]
+  }
+]

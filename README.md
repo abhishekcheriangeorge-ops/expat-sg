@@ -1,8 +1,10 @@
 # expat.sg
 
-Fast, dated resource for expats in Singapore. Search-first. Static data on GitHub.
+Fast, dated resource for expats in Singapore. Search-first. **Stateless.**
 
-- Live data CMS: [`src/data`](./src/data)
-- Domain: [expat.sg](https://expat.sg)
+GitHub is the source of truth. Every page load fetches JSON from [`data/`](./data). Every agent session starts with `git pull`, iterates, then `git push`.
 
-Not affiliated with the Government of Singapore. Verify MOM / ICA / IRAS figures before you act.
+- Corpus: [`data/`](./data)
+- Repo: [abhishekcheriangeorge-ops/expat-sg](https://github.com/abhishekcheriangeorge-ops/expat-sg)
+
+No database. No cookies. No localStorage. Sponsored slots are flags in the JSON.

@@ -1,7 +1,7 @@
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { AppLink } from "@/components/app-link";
 import { Page } from "@/components/page";
-import { neighbourhoods } from "@/data";
+import { useCorpus } from "@/lib/corpus";
 import { sgd } from "@/lib/utils";
 
 export const Route = createFileRoute("/neighbourhoods/$slug")({
@@ -10,6 +10,7 @@ export const Route = createFileRoute("/neighbourhoods/$slug")({
 
 function HoodPage() {
   const { slug } = Route.useParams();
+  const { neighbourhoods } = useCorpus();
   const n = neighbourhoods.find((x) => x.slug === slug);
   if (!n) throw notFound();
 

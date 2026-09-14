@@ -2,13 +2,15 @@ import { createFileRoute } from "@tanstack/react-router";
 import { useMemo, useState } from "react";
 import { Page, Eyebrow } from "@/components/page";
 import { AppLink } from "@/components/app-link";
-import { COMPASS } from "@/data/numbers";
+import { useCorpus } from "@/lib/corpus";
 
 export const Route = createFileRoute("/tools/compass")({
   component: CompassTool,
 });
 
 function CompassTool() {
+  const { numbers } = useCorpus();
+  const COMPASS = numbers.compass;
   const [c1, setC1] = useState(10);
   const [c2, setC2] = useState(10);
   const [c3, setC3] = useState(10);

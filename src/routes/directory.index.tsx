@@ -1,13 +1,14 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { AppLink } from "@/components/app-link";
 import { Page, Eyebrow } from "@/components/page";
-import { DIRECTORY_CATEGORIES, listings } from "@/data";
+import { useCorpus } from "@/lib/corpus";
 
 export const Route = createFileRoute("/directory/")({
   component: DirectoryIndex,
 });
 
 function DirectoryIndex() {
+  const { directoryCategories, listings } = useCorpus();
   return (
     <Page>
       <Eyebrow>Directory</Eyebrow>
@@ -20,7 +21,7 @@ function DirectoryIndex() {
         .
       </p>
       <div className="mt-8 grid gap-3 sm:grid-cols-2">
-        {DIRECTORY_CATEGORIES.map((c) => {
+        {directoryCategories.map((c) => {
           const count = listings.filter((l) => l.category === c.id).length;
           const featured = listings.filter((l) => l.category === c.id && l.sponsored).length;
           return (

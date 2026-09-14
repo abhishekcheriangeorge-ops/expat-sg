@@ -1,7 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { AppLink } from "@/components/app-link";
 import { Page, Eyebrow } from "@/components/page";
-import { neighbourhoods } from "@/data";
+import { useCorpus } from "@/lib/corpus";
 import { sgd } from "@/lib/utils";
 
 export const Route = createFileRoute("/neighbourhoods/")({
@@ -9,6 +9,7 @@ export const Route = createFileRoute("/neighbourhoods/")({
 });
 
 function Hoods() {
+  const { neighbourhoods } = useCorpus();
   return (
     <Page>
       <Eyebrow>Neighbourhoods</Eyebrow>

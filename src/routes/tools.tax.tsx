@@ -2,7 +2,8 @@ import { createFileRoute } from "@tanstack/react-router";
 import { useMemo, useState } from "react";
 import { Page, Eyebrow } from "@/components/page";
 import { AppLink } from "@/components/app-link";
-import { NON_RESIDENT_EMPLOYMENT_RATE, residentTax } from "@/data/numbers";
+import { residentTax } from "@/lib/calc";
+import { useCorpus } from "@/lib/corpus";
 import { sgd } from "@/lib/utils";
 
 export const Route = createFileRoute("/tools/tax")({
@@ -10,10 +11,11 @@ export const Route = createFileRoute("/tools/tax")({
 });
 
 function TaxTool() {
+  const { numbers } = useCorpus();
   const [income, setIncome] = useState(120000);
   const [resident, setResident] = useState(true);
-  const res = useMemo(() => residentTax(income), [income]);
-  const nonRes = Math.max(income * NON_RESIDENT_EMPLOYMENT_RATE, res);
+  const res = useMemo(() => residentTax(numbers, income), [numbers, income]);
+  const nonRes = Math.max(income * numbers.nonResidentEmploymentRate, res);
   const tax = resident ? res : nonRes;
   const eff = income > 0 ? tax / income : 0;
 

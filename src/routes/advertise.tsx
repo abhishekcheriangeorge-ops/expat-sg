@@ -1,7 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useState } from "react";
 import { Page, Eyebrow } from "@/components/page";
-import { AD_PACKAGES, AD_WHY, SITE } from "@/data";
+import { useCorpus } from "@/lib/corpus";
 import { cn } from "@/lib/utils";
 
 export const Route = createFileRoute("/advertise")({
@@ -9,10 +9,11 @@ export const Route = createFileRoute("/advertise")({
 });
 
 function Advertise() {
+  const { adPackages, adWhy, site } = useCorpus();
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [company, setCompany] = useState("");
-  const [pack, setPack] = useState(AD_PACKAGES[0].id);
+  const [pack, setPack] = useState(adPackages[0].id);
   const [note, setNote] = useState("");
   const [sent, setSent] = useState(false);
 
@@ -28,7 +29,7 @@ function Advertise() {
       </p>
 
       <div className="mt-10 grid gap-4 lg:grid-cols-2">
-        {AD_PACKAGES.map((p) => (
+        {adPackages.map((p) => (
           <article
             key={p.id}
             className={cn(
@@ -50,7 +51,7 @@ function Advertise() {
       </div>
 
       <div className="mt-12 grid gap-10 lg:grid-cols-3">
-        {AD_WHY.map((w) => (
+        {adWhy.map((w) => (
           <div key={w.title}>
             <h3 className="font-display text-xl font-medium">{w.title}</h3>
             <p className="mt-2 text-sm leading-relaxed text-muted">{w.text}</p>
@@ -61,23 +62,20 @@ function Advertise() {
       <section className="mt-14 rounded-xl border border-border bg-surface p-6 sm:p-8">
         <h2 className="font-display text-2xl font-medium tracking-tight">Request a slot</h2>
         <p className="mt-2 text-sm text-muted">
-          Goes to {SITE.advertiseEmail}. We reply with remaining inventory for the month.
+          Goes to {site.advertiseEmail}. We reply with remaining inventory for the month.
         </p>
         {sent ? (
-          <p className="mt-6 text-sm text-ok">Saved. Your mail client should open — if it does not, write us directly.</p>
+          <p className="mt-6 text-sm text-ok">Your mail client should open. Nothing is stored on this site.</p>
         ) : (
           <form
             className="mt-6 grid gap-4 sm:grid-cols-2"
             onSubmit={(e) => {
               e.preventDefault();
-              const lead = { name, email, company, pack, note, at: new Date().toISOString() };
-              const prev = JSON.parse(localStorage.getItem("expat-sg-leads") || "[]") as unknown[];
-              localStorage.setItem("expat-sg-leads", JSON.stringify([...prev, lead]));
-              const pkg = AD_PACKAGES.find((p) => p.id === pack);
+              const pkg = adPackages.find((p) => p.id === pack);
               const body = encodeURIComponent(
                 `Name: ${name}\nCompany: ${company}\nEmail: ${email}\nPackage: ${pkg?.name}\n\n${note}`,
               );
-              window.location.href = `mailto:${SITE.advertiseEmail}?subject=${encodeURIComponent("expat.sg advertising")}&body=${body}`;
+              window.location.href = `mailto:${site.advertiseEmail}?subject=${encodeURIComponent("expat.sg advertising")}&body=${body}`;
               setSent(true);
             }}
           >
@@ -91,7 +89,7 @@ function Advertise() {
                 onChange={(e) => setPack(e.target.value)}
                 className="h-11 rounded-md border border-border bg-bg px-3"
               >
-                {AD_PACKAGES.map((p) => (
+                {adPackages.map((p) => (
                   <option key={p.id} value={p.id}>
                     {p.name}
                   </option>

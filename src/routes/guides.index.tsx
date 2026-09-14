@@ -2,7 +2,7 @@ import { createFileRoute } from "@tanstack/react-router";
 import { AppLink } from "@/components/app-link";
 import { Page, Eyebrow } from "@/components/page";
 import { SponsoredBadge } from "@/components/sponsored";
-import { CATEGORY_LABEL, guides } from "@/data";
+import { useCorpus } from "@/lib/corpus";
 import type { GuideCategory } from "@/data/types";
 
 type Search = { cat?: string };
@@ -16,8 +16,10 @@ export const Route = createFileRoute("/guides/")({
 
 function GuidesIndex() {
   const { cat } = Route.useSearch();
+  const { guides, site } = useCorpus();
   const cats = Array.from(new Set(guides.map((g) => g.category)));
   const list = cat ? guides.filter((g) => g.category === cat) : guides;
+  const CATEGORY_LABEL = site.categoryLabel;
 
   return (
     <Page>

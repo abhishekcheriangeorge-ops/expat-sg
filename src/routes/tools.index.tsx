@@ -1,13 +1,14 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { AppLink } from "@/components/app-link";
 import { Page, Eyebrow } from "@/components/page";
-import { tools } from "@/data";
+import { useCorpus } from "@/lib/corpus";
 
 export const Route = createFileRoute("/tools/")({
   component: ToolsIndex,
 });
 
 function ToolsIndex() {
+  const { tools } = useCorpus();
   return (
     <Page>
       <Eyebrow>Tools</Eyebrow>

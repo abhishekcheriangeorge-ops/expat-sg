@@ -2,6 +2,7 @@ import { Search } from "lucide-react";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { useNavigate } from "@tanstack/react-router";
 import { searchDocs, kindLabel } from "@/lib/search";
+import { useCorpus } from "@/lib/corpus";
 import { SponsoredBadge } from "@/components/sponsored";
 import { AppLink } from "@/components/app-link";
 import { cn } from "@/lib/utils";
@@ -53,7 +54,8 @@ export function CommandSearch({
   const [q, setQ] = useState("");
   const inputRef = useRef<HTMLInputElement>(null);
   const navigate = useNavigate();
-  const results = useMemo(() => searchDocs(q, 8), [q]);
+  const { searchIndex } = useCorpus();
+  const results = useMemo(() => searchDocs(searchIndex, q, 8), [searchIndex, q]);
 
   useEffect(() => {
     if (open) {

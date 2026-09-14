@@ -1,15 +1,17 @@
 import { Menu, X } from "lucide-react";
 import { useCallback, useState } from "react";
-import { SITE, NAV } from "@/data";
 import { AppLink } from "@/components/app-link";
 import { CommandSearch, SearchTrigger, useSearchHotkey } from "@/components/search/command-search";
+import { useCorpus } from "@/lib/corpus";
 import { cn } from "@/lib/utils";
 
 export function SiteShell({ children }: { children: React.ReactNode }) {
+  const { site, source } = useCorpus();
   const [searchOpen, setSearchOpen] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
   const openSearch = useCallback(() => setSearchOpen(true), []);
   useSearchHotkey(openSearch);
+  const nav = site.nav;
 
   return (
     <div className="flex min-h-dvh flex-col bg-bg text-fg">
@@ -25,7 +27,7 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
             expat<span className="text-primary">.sg</span>
           </AppLink>
           <nav className="hidden items-center gap-5 lg:flex">
-            {NAV.map((n) => (
+            {nav.map((n) => (
               <AppLink
                 key={n.href}
                 to={n.href}
@@ -60,7 +62,7 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
         {menuOpen ? (
           <div className="border-t border-border bg-surface lg:hidden">
             <nav className="mx-auto flex max-w-6xl flex-col px-4 py-2">
-              {NAV.map((n) => (
+              {nav.map((n) => (
                 <AppLink
                   key={n.href}
                   to={n.href}
@@ -85,14 +87,16 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
               expat<span className="text-primary">.sg</span>
             </p>
             <p className="mt-2 max-w-sm text-sm leading-relaxed text-muted">
-              {SITE.tagline} A search-first index of living here — numbers from MOM, ICA, IRAS and the ground, not a magazine.
+              {site.tagline} A search-first index of living here — numbers from MOM, ICA, IRAS and the ground, not a magazine.
             </p>
-            <p className="mt-3 text-xs text-subtle">Updated {SITE.updated}. Data is static files on GitHub.</p>
+            <p className="mt-3 text-xs text-subtle">
+              Updated {site.updated}. Corpus from {source === "github" ? "GitHub" : "bundled snapshot"} — no database, no cookies.
+            </p>
           </div>
           <div>
             <p className="text-xs font-semibold uppercase tracking-[0.14em] text-muted">Index</p>
             <ul className="mt-3 flex flex-col gap-2 text-sm">
-              {NAV.map((n) => (
+              {nav.map((n) => (
                 <li key={n.href}>
                   <AppLink to={n.href} className="hover:text-primary">
                     {n.label}
@@ -110,18 +114,18 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
             <p className="text-xs font-semibold uppercase tracking-[0.14em] text-muted">Source</p>
             <ul className="mt-3 flex flex-col gap-2 text-sm">
               <li>
-                <a href={SITE.github} className="hover:text-primary" target="_blank" rel="noreferrer">
+                <a href={site.github} className="hover:text-primary" target="_blank" rel="noreferrer">
                   GitHub repo
                 </a>
               </li>
               <li>
-                <a href={SITE.githubData} className="hover:text-primary" target="_blank" rel="noreferrer">
+                <a href={site.githubData} className="hover:text-primary" target="_blank" rel="noreferrer">
                   Edit the data
                 </a>
               </li>
               <li>
-                <a href={`mailto:${SITE.advertiseEmail}`} className="hover:text-primary">
-                  {SITE.advertiseEmail}
+                <a href={`mailto:${site.advertiseEmail}`} className="hover:text-primary">
+                  {site.advertiseEmail}
                 </a>
               </li>
             </ul>

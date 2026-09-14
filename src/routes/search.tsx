@@ -4,6 +4,7 @@ import { AppLink } from "@/components/app-link";
 import { Page, Eyebrow } from "@/components/page";
 import { SponsoredBadge } from "@/components/sponsored";
 import { kindLabel, searchDocs } from "@/lib/search";
+import { useCorpus } from "@/lib/corpus";
 
 type Search = { q: string };
 
@@ -17,8 +18,9 @@ export const Route = createFileRoute("/search")({
 function SearchPage() {
   const { q } = Route.useSearch();
   const navigate = useNavigate();
+  const { searchIndex } = useCorpus();
   const [draft, setDraft] = useState(q);
-  const results = useMemo(() => searchDocs(q, 40), [q]);
+  const results = useMemo(() => searchDocs(searchIndex, q, 40), [searchIndex, q]);
 
   return (
     <Page>

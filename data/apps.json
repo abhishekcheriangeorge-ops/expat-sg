@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Singpass",
+    "why": "Government identity. Bank KYC, ICA, IRAS, HDB. Register the day your FIN is active.",
+    "category": "Admin"
+  },
+  {
+    "name": "SimplyGo",
+    "why": "MRT/bus fares, monthly pass, trip history. Or just tap a contactless bank card.",
+    "category": "Transport"
+  },
+  {
+    "name": "Grab",
+    "why": "Taxis, food, courier. The default. ComfortDelGro app is often cheaper for street cabs.",
+    "category": "Transport"
+  },
+  {
+    "name": "Google Maps / Citymapper",
+    "why": "MRT is the spine. Maps is accurate; Citymapper is nicer for mixed trips.",
+    "category": "Transport"
+  },
+  {
+    "name": "PayNow (in your bank app)",
+    "why": "Instant SGD to a mobile number. This is how rent split and dinner bills work.",
+    "category": "Money"
+  },
+  {
+    "name": "IRAS myTax",
+    "why": "File after year 1. Most EP holders are tax residents after 183 days.",
+    "category": "Admin"
+  },
+  {
+    "name": "HealthHub / hospital apps",
+    "why": "Public-cluster records if you use polyclinics. Private groups have their own.",
+    "category": "Health"
+  },
+  {
+    "name": "NEA myENV",
+    "why": "PSI/haze, weather, dengue clusters. You will care during haze season.",
+    "category": "Daily"
+  },
+  {
+    "name": "Hawker / Burpple / Google",
+    "why": "Find the actual stall. Makansutra still matters.",
+    "category": "Food"
+  },
+  {
+    "name": "Carousell",
+    "why": "Second-hand furniture, strollers, 'leaving SG' fire sales. The expat cycle in marketplace form.",
+    "category": "Home"
+  },
+  {
+    "name": "Telegram (All About Singapore / ExpatSG)",
+    "why": "Events and classifieds still live in Telegram and Facebook groups.",
+    "category": "Community"
+  },
+  {
+    "name": "MyCareersFuture / LinkedIn",
+    "why": "Jobs. MyCareersFuture is the government board; LinkedIn is where EP roles actually sit.",
+    "category": "Work"
+  }
+]

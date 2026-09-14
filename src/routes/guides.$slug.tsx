@@ -3,7 +3,7 @@ import { AppLink } from "@/components/app-link";
 import { Blocks } from "@/components/blocks";
 import { Page } from "@/components/page";
 import { SponsoredBadge } from "@/components/sponsored";
-import { CATEGORY_LABEL, guides } from "@/data";
+import { useCorpus } from "@/lib/corpus";
 
 export const Route = createFileRoute("/guides/$slug")({
   component: GuidePage,
@@ -11,6 +11,8 @@ export const Route = createFileRoute("/guides/$slug")({
 
 function GuidePage() {
   const { slug } = Route.useParams();
+  const { guides, site } = useCorpus();
+  const CATEGORY_LABEL = site.categoryLabel;
   const guide = guides.find((g) => g.slug === slug);
   if (!guide) throw notFound();
   const related = guides.filter((g) => g.category === guide.category && g.slug !== slug).slice(0, 3);

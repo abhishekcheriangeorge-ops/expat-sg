@@ -2,7 +2,7 @@ import { createFileRoute, notFound } from "@tanstack/react-router";
 import { AppLink } from "@/components/app-link";
 import { Page } from "@/components/page";
 import { SponsoredBadge } from "@/components/sponsored";
-import { DIRECTORY_CATEGORIES, listings } from "@/data";
+import { useCorpus } from "@/lib/corpus";
 import type { DirectoryCategory } from "@/data/types";
 
 export const Route = createFileRoute("/directory/$category")({
@@ -11,7 +11,8 @@ export const Route = createFileRoute("/directory/$category")({
 
 function DirectoryCategoryPage() {
   const { category } = Route.useParams();
-  const meta = DIRECTORY_CATEGORIES.find((c) => c.id === category);
+  const { directoryCategories, listings } = useCorpus();
+  const meta = directoryCategories.find((c) => c.id === category);
   if (!meta) throw notFound();
   const items = listings
     .filter((l) => l.category === (category as DirectoryCategory))

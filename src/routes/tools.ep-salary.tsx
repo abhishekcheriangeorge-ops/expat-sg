@@ -2,7 +2,8 @@ import { createFileRoute } from "@tanstack/react-router";
 import { useMemo, useState } from "react";
 import { Page, Eyebrow } from "@/components/page";
 import { AppLink } from "@/components/app-link";
-import { EP_SALARY, epMinimum } from "@/data/numbers";
+import { epMinimum } from "@/lib/calc";
+import { useCorpus } from "@/lib/corpus";
 import { sgd } from "@/lib/utils";
 
 export const Route = createFileRoute("/tools/ep-salary")({
@@ -10,10 +11,12 @@ export const Route = createFileRoute("/tools/ep-salary")({
 });
 
 function EpSalary() {
+  const { numbers } = useCorpus();
+  const EP_SALARY = numbers.epSalary;
   const [age, setAge] = useState(32);
   const [finance, setFinance] = useState(false);
   const [salary, setSalary] = useState(8000);
-  const min = useMemo(() => epMinimum(age, finance), [age, finance]);
+  const min = useMemo(() => epMinimum(numbers, age, finance), [numbers, age, finance]);
   const ok = salary >= min;
   const exempt = salary >= EP_SALARY.compassExempt;
 

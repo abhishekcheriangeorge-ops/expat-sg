@@ -1,0 +1,279 @@
+{
+  "epSalary": {
+    "general": {
+      "age23": 5600,
+      "age45": 10700
+    },
+    "finance": {
+      "age23": 6200,
+      "age45": 11800
+    },
+    "compassExempt": 22500,
+    "nextYearGeneral": 6000,
+    "nextYearFinance": 6600,
+    "nextYearFrom": "1 January 2027"
+  },
+  "sPassSalary": {
+    "general": {
+      "age23": 3300,
+      "age45": 4800
+    },
+    "finance": {
+      "age23": 3800,
+      "age45": 5650
+    },
+    "nextYearGeneral": 3600,
+    "nextYearFinance": 4000
+  },
+  "epAnchors": [
+    {
+      "age": 23,
+      "general": 5600,
+      "finance": 6200
+    },
+    {
+      "age": 28,
+      "general": 6800,
+      "finance": 7500
+    },
+    {
+      "age": 34,
+      "general": 8200,
+      "finance": 9000
+    },
+    {
+      "age": 40,
+      "general": 9500,
+      "finance": 10500
+    },
+    {
+      "age": 45,
+      "general": 10700,
+      "finance": 11800
+    }
+  ],
+  "taxBrackets": [
+    {
+      "upTo": 20000,
+      "rate": 0
+    },
+    {
+      "upTo": 30000,
+      "rate": 0.02
+    },
+    {
+      "upTo": 40000,
+      "rate": 0.035
+    },
+    {
+      "upTo": 80000,
+      "rate": 0.07
+    },
+    {
+      "upTo": 120000,
+      "rate": 0.115
+    },
+    {
+      "upTo": 160000,
+      "rate": 0.15
+    },
+    {
+      "upTo": 200000,
+      "rate": 0.18
+    },
+    {
+      "upTo": 240000,
+      "rate": 0.19
+    },
+    {
+      "upTo": 280000,
+      "rate": 0.195
+    },
+    {
+      "upTo": 320000,
+      "rate": 0.2
+    },
+    {
+      "upTo": 500000,
+      "rate": 0.22
+    },
+    {
+      "upTo": 1000000,
+      "rate": 0.23
+    },
+    {
+      "upTo": null,
+      "rate": 0.24
+    }
+  ],
+  "gst": 0.09,
+  "nonResidentEmploymentRate": 0.15,
+  "nonResidentOtherRate": 0.24,
+  "cpf": {
+    "ordinaryWageCeiling": 8000,
+    "employeeRate": 0.2,
+    "employerRate": 0.17,
+    "note": "EP and S Pass holders do not contribute to CPF. CPF applies to citizens and PRs only."
+  },
+  "transport": {
+    "mrtMin": 1.28,
+    "mrtMax": 2.57,
+    "adultMonthly": 122,
+    "simplyGo": true,
+    "earlyBirdDiscount": 0.5
+  },
+  "living": {
+    "hawkerMeal": [
+      4,
+      8
+    ],
+    "coffeeShopMeal": [
+      6,
+      12
+    ],
+    "midRestaurant": [
+      25,
+      60
+    ],
+    "gym": [
+      80,
+      250
+    ],
+    "helper": [
+      850,
+      1200
+    ],
+    "helperLevy": 300,
+    "prepaidSim": [
+      10,
+      30
+    ],
+    "postpaid": [
+      20,
+      50
+    ],
+    "fibre1g": [
+      29,
+      45
+    ],
+    "gpVisitPrivate": [
+      40,
+      90
+    ],
+    "privateHospitalNight": [
+      700,
+      1500
+    ]
+  },
+  "rent": {
+    "ccr": {
+      "br1": [
+        3500,
+        6000
+      ],
+      "br2": [
+        5500,
+        10000
+      ],
+      "br3": [
+        8000,
+        18000
+      ]
+    },
+    "rcr": {
+      "br1": [
+        2800,
+        4500
+      ],
+      "br2": [
+        4000,
+        7500
+      ],
+      "br3": [
+        6000,
+        12000
+      ]
+    },
+    "ocr": {
+      "br1": [
+        2200,
+        3500
+      ],
+      "br2": [
+        3000,
+        5000
+      ],
+      "br3": [
+        4500,
+        8000
+      ]
+    }
+  },
+  "stampDutyLease": 0.004,
+  "compass": {
+    "passMark": 40,
+    "exemptSalary": 22500,
+    "c1": [
+      {
+        "label": "At or above 90th percentile of local PMET pay (age + sector)",
+        "points": 20
+      },
+      {
+        "label": "65th to under 90th percentile",
+        "points": 10
+      },
+      {
+        "label": "Below 65th percentile",
+        "points": 0
+      }
+    ],
+    "c2": [
+      {
+        "label": "Top-tier institution (MOM list)",
+        "points": 20
+      },
+      {
+        "label": "Degree-equivalent qualification",
+        "points": 10
+      },
+      {
+        "label": "No degree-equivalent qualification",
+        "points": 0
+      }
+    ],
+    "c3": [
+      {
+        "label": "Candidate nationality under 5% of firm PMETs",
+        "points": 20
+      },
+      {
+        "label": "5% to under 25%",
+        "points": 10
+      },
+      {
+        "label": "25% or more",
+        "points": 0
+      }
+    ],
+    "c4": [
+      {
+        "label": "Local PMET share at or above 50th percentile of subsector",
+        "points": 20
+      },
+      {
+        "label": "20th to under 50th percentile",
+        "points": 10
+      },
+      {
+        "label": "Under 20th percentile",
+        "points": 0
+      }
+    ],
+    "c5": {
+      "sol": 20,
+      "solReduced": 10
+    },
+    "c6": 10,
+    "smallFirmDefault": 10
+  }
+}

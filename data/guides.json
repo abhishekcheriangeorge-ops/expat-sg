@@ -1,0 +1,1282 @@
+[
+  {
+    "slug": "employment-pass-2026",
+    "title": "Employment Pass 2026: salary floors, COMPASS, and the 2027 rise",
+    "excerpt": "The EP is the default pass for professionals. Qualifying salary is S$5,600 (S$6,200 in finance) at age 23, rising with age. COMPASS still sits on top.",
+    "category": "visas",
+    "updated": "12 Sep 2026",
+    "readMinutes": 8,
+    "tags": [
+      "ep",
+      "employment pass",
+      "mom",
+      "compass",
+      "salary",
+      "2026",
+      "2027"
+    ],
+    "featured": true,
+    "body": [
+      {
+        "type": "stats",
+        "items": [
+          {
+            "label": "Most sectors (age 23)",
+            "value": "S$5,600",
+            "hint": "Rises to S$10,700 at 45+"
+          },
+          {
+            "label": "Financial services (age 23)",
+            "value": "S$6,200",
+            "hint": "Rises to S$11,800 at 45+"
+          },
+          {
+            "label": "COMPASS pass",
+            "value": "40 pts",
+            "hint": "Exempt at S$22,500/mo"
+          },
+          {
+            "label": "1 Jan 2027 new EP",
+            "value": "S$6,000",
+            "hint": "Finance S$6,600. Renewals 2028."
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "text": "An Employment Pass is MOM’s professional work pass. There is no quota and no levy, which is why employers prefer it to an S Pass — but the bar is a two-stage test, not a handshake."
+      },
+      {
+        "type": "h2",
+        "text": "Stage 1 — qualifying salary"
+      },
+      {
+        "type": "p",
+        "text": "From 1 January 2025 (still current through 2026), the floor is S$5,600 a month in most sectors and S$6,200 in financial services for the youngest applicants. It is benchmarked to the top third of local PMET wages and climbs with age to S$10,700 / S$11,800 at 45 and above. Variable bonuses do not count; MOM wants fixed monthly salary."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Age",
+          "Most sectors",
+          "Financial services"
+        ],
+        "rows": [
+          [
+            "23 (floor)",
+            "S$5,600",
+            "S$6,200"
+          ],
+          [
+            "28",
+            "S$6,800",
+            "S$7,500"
+          ],
+          [
+            "34",
+            "S$8,200",
+            "S$9,000"
+          ],
+          [
+            "40",
+            "S$9,500",
+            "S$10,500"
+          ],
+          [
+            "45+",
+            "S$10,700",
+            "S$11,800"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "tone": "info",
+        "title": "Anchors, not a leaked MOM table",
+        "text": "MOM publishes the exact age curve in the Self-Assessment Tool. Mid-age figures above are interpolated from published anchors and rounded to S$100. Run the official SAT before you accept an offer."
+      },
+      {
+        "type": "h2",
+        "text": "Stage 2 — COMPASS"
+      },
+      {
+        "type": "p",
+        "text": "Unless you are exempt, the application must score 40 points. Foundational criteria (C1 salary vs sector peers, C2 qualifications, C3 firm nationality mix, C4 local PMET share) can reach 80. Bonus criteria: Shortage Occupation List (+20, or +10 if your nationality is already a third of the firm’s PMETs) and strategic economic priorities (+10). Firms with fewer than 25 PMETs get 10 points by default on C3 and C4."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Exempt from COMPASS if fixed monthly salary is at least S$22,500.",
+          "Failing Stage 1 cannot be rescued by a perfect COMPASS score.",
+          "Intra-corporate transferees and some other categories have separate rules — check MOM, not a forum post."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "What Budget 2026 already locked in"
+      },
+      {
+        "type": "p",
+        "text": "New EP applications from 1 January 2027 need S$6,000 (S$6,600 finance). Renewals follow a year later. If you are signing a 2026 offer, the current floor applies; if the pass will be filed in 2027, budget the new number."
+      },
+      {
+        "type": "cta",
+        "label": "Run the EP salary check",
+        "href": "/tools/ep-salary"
+      }
+    ]
+  },
+  {
+    "slug": "compass-explained",
+    "title": "COMPASS explained: the 40-point test behind every EP",
+    "excerpt": "MOM’s Complementarity Assessment Framework, scored the way the 2023 rubric still scores it in 2026.",
+    "category": "visas",
+    "updated": "11 Aug 2026",
+    "readMinutes": 7,
+    "tags": [
+      "compass",
+      "ep",
+      "mom",
+      "points",
+      "sol"
+    ],
+    "featured": true,
+    "body": [
+      {
+        "type": "p",
+        "text": "COMPASS is not a personality test. It is a six-criterion points framework. Forty points and you pass. Under 40 and MOM will not issue the EP, even if the salary clears Stage 1."
+      },
+      {
+        "type": "h2",
+        "text": "Foundational (max 80)"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Criterion",
+          "20 points",
+          "10 points",
+          "0 points"
+        ],
+        "rows": [
+          [
+            "C1 Salary",
+            "≥ 90th pct local PMET, age + sector",
+            "65th to <90th",
+            "< 65th"
+          ],
+          [
+            "C2 Qualifications",
+            "Top-tier institution (MOM list)",
+            "Degree-equivalent",
+            "None"
+          ],
+          [
+            "C3 Diversity",
+            "Nationality <5% of firm PMETs",
+            "5–<25%",
+            "≥25%"
+          ],
+          [
+            "C4 Local employment",
+            "Local PMET share ≥50th pct of subsector",
+            "20th–<50th",
+            "<20th"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Bonus (max 30)"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "C5 Skills: job on the Shortage Occupation List = +20. Cut to +10 if that nationality is already ≥1/3 of firm PMETs.",
+          "C6 Strategic economic priorities: firm meets MOM’s investment / innovation / transformation tests = +10."
+        ]
+      },
+      {
+        "type": "callout",
+        "tone": "warn",
+        "title": "C1 is not the EP floor",
+        "text": "Clearing S$5,600 does not mean you score 20 on C1. C1 is scored against the 65th/90th percentile of local PMETs in your sector and age band — often higher than the qualifying salary. MOM updates those benchmarks annually (2026 tables apply to new EPs in calendar 2026)."
+      },
+      {
+        "type": "p",
+        "text": "Small firms (under 25 PMET employees) score 10 on C3 and C4 by default. That is a feature, not a bug: MOM does not want a five-person boutique failing diversity maths."
+      },
+      {
+        "type": "cta",
+        "label": "Score a COMPASS profile",
+        "href": "/tools/compass"
+      }
+    ]
+  },
+  {
+    "slug": "s-pass-and-other-passes",
+    "title": "S Pass, PEP, ONE Pass, Dependant’s Pass — 2026 map",
+    "excerpt": "Not everyone is on an EP. Here is the rest of the pass stack, with 2026 salary floors and 2027 changes.",
+    "category": "visas",
+    "updated": "31 Aug 2026",
+    "readMinutes": 7,
+    "tags": [
+      "s pass",
+      "pep",
+      "one pass",
+      "dependant",
+      "ltvp",
+      "work permit"
+    ],
+    "body": [
+      {
+        "type": "table",
+        "headers": [
+          "Pass",
+          "Who",
+          "2026 floor",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "Employment Pass",
+            "Professionals",
+            "S$5,600 / S$6,200 FS",
+            "COMPASS. No quota/levy."
+          ],
+          [
+            "S Pass",
+            "Mid-level",
+            "S$3,300 / S$3,800 FS",
+            "Quota + levy. Age-progressive to ~S$4,800."
+          ],
+          [
+            "Work Permit",
+            "Work permit sectors",
+            "No min salary",
+            "Quota + levy. Sector rules."
+          ],
+          [
+            "PEP",
+            "High earners, job mobility",
+            "S$22,500",
+            "Not tied to one employer."
+          ],
+          [
+            "ONE Pass",
+            "Top talent / business",
+            "High bar (MOM)",
+            "Five-year, flexible."
+          ],
+          [
+            "Dependant’s Pass",
+            "Spouse / child of EP/S Pass",
+            "Sponsor salary rules",
+            "Cannot work unless a Loc."
+          ],
+          [
+            "LTVP / LTVP+",
+            "Parents, common-law, etc.",
+            "Case by case",
+            "ICA, not MOM."
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "S Pass in 2026"
+      },
+      {
+        "type": "p",
+        "text": "S Pass is the mid-skilled pass. Floor is S$3,300 (S$3,800 finance) from 1 September 2025 for new applications, rising with age. From 1 January 2027 new S Pass applications need S$3,600 / S$4,000. Unlike EP, S Pass counts against the firm’s quota and attracts a levy. That is why employers push borderline hires toward EP if the salary can stretch."
+      },
+      {
+        "type": "h2",
+        "text": "Dependant’s Pass and working"
+      },
+      {
+        "type": "p",
+        "text": "A DP does not by itself let you work. You need a Letter of Consent (if eligible) or your own EP/S Pass. Trailing spouses should assume a job search, not automatic work rights. Children on DP can attend school; international-school seats are a separate, harder problem."
+      },
+      {
+        "type": "callout",
+        "tone": "info",
+        "title": "EntrePass and GIP",
+        "text": "Founders use EntrePass (MOM, venture / innovation criteria). Investors looking at PR via capital use EDB’s Global Investor Programme — a different universe, with a different cheque size."
+      }
+    ]
+  },
+  {
+    "slug": "permanent-residency",
+    "title": "Singapore PR in 2026: no points, no promises, ~40,000 grants",
+    "excerpt": "ICA still does not publish a score. Tenure, family, tax, salary and ‘roots’ all matter. Processing is about six months.",
+    "category": "visas",
+    "updated": "4 Jul 2026",
+    "readMinutes": 8,
+    "tags": [
+      "pr",
+      "ica",
+      "citizenship",
+      "re-entry permit",
+      "pts"
+    ],
+    "featured": true,
+    "body": [
+      {
+        "type": "p",
+        "text": "There is no official points scheme for Permanent Residence. ICA says the assessment is holistic: family ties to Singaporeans, economic contribution, qualifications, age, family profile, length of residence, ability to contribute and intent to sink roots. Anyone selling you a guaranteed PR scorecard is selling fiction."
+      },
+      {
+        "type": "h2",
+        "text": "Who can apply"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "EP, S Pass, EntrePass, PEP or ONE Pass holders (PTS route, in old language).",
+          "Spouse of a citizen or PR.",
+          "Unmarried child under 21 of a citizen or PR.",
+          "Aged parent of a citizen aged 21+.",
+          "Students who have passed a national exam, or GIP investors."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "There is no minimum time on an EP. Practically, files filed in the first few months are thin: ICA has little residency, little tax history, little evidence you stayed. Two to five years of stable work is the pattern in successful PTS cases — a pattern, not a rule."
+      },
+      {
+        "type": "stats",
+        "items": [
+          {
+            "label": "Intake signal",
+            "value": "~40,000 / year",
+            "hint": "Through 2030, per 2026 remarks"
+          },
+          {
+            "label": "Fee",
+            "value": "S$100",
+            "hint": "Per applicant, e-PR"
+          },
+          {
+            "label": "Processing",
+            "value": "~6 months",
+            "hint": "ICA, not your agent"
+          },
+          {
+            "label": "Citizenship wait",
+            "value": "2 years as PR",
+            "hint": "Age 21+; still discretionary"
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "What actually changes when you get it"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "",
+          "EP / S Pass",
+          "PR",
+          "Citizen"
+        ],
+        "rows": [
+          [
+            "Stay",
+            "While pass valid",
+            "Indefinite in SG; REP to travel",
+            "Unconditional"
+          ],
+          [
+            "CPF",
+            "None",
+            "Phased in, then full 20/17",
+            "Full"
+          ],
+          [
+            "MediShield Life",
+            "No",
+            "Yes",
+            "Yes"
+          ],
+          [
+            "ABSD (1st home)",
+            "60%",
+            "5%",
+            "0%"
+          ],
+          [
+            "MOE school fees",
+            "International rates",
+            "PR rates",
+            "Citizen rates"
+          ],
+          [
+            "NS",
+            "No",
+            "Sons granted PR are liable",
+            "Sons liable"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "tone": "warn",
+        "title": "Re-Entry Permit",
+        "text": "PR is not a passport. Leave Singapore without a valid Re-Entry Permit and you can lose the status. REP is typically five years, S$50, renewed on MyICA."
+      },
+      {
+        "type": "p",
+        "text": "National Service is the conversation families under-prepare for. Male children who obtain PR through a parent are liable. That is not a rumour."
+      }
+    ]
+  },
+  {
+    "slug": "renting-in-singapore",
+    "title": "Renting in Singapore 2026: condos, HDB, deposits, agents",
+    "excerpt": "Most expats take a private condo. Budget two months’ deposit, stamp duty, and a hard look at CCR vs RCR vs OCR.",
+    "category": "housing",
+    "updated": "17 Feb 2026",
+    "readMinutes": 9,
+    "tags": [
+      "rent",
+      "condo",
+      "hdb",
+      "agent",
+      "stamp duty",
+      "ccr"
+    ],
+    "featured": true,
+    "body": [
+      {
+        "type": "p",
+        "text": "The rental market has cooled from the 2022–23 spike but CCR landlords still behave as if it has not. You will almost certainly rent a private apartment. HDB whole-unit rentals have eligibility rules; rooms are easier but are a different product."
+      },
+      {
+        "type": "h2",
+        "text": "What you actually pay (monthly, 2026)"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Region",
+          "1-bed",
+          "2-bed",
+          "3-bed"
+        ],
+        "rows": [
+          [
+            "CCR (D9, D10, D11, Marina)",
+            "S$3,500–6,000",
+            "S$5,500–10,000",
+            "S$8,000–18,000+"
+          ],
+          [
+            "RCR (Tiong Bahru, East Coast, Queenstown)",
+            "S$2,800–4,500",
+            "S$4,000–7,500",
+            "S$6,000–12,000"
+          ],
+          [
+            "OCR (Woodlands, Tampines, Punggol, Jurong)",
+            "S$2,200–3,500",
+            "S$3,000–5,000",
+            "S$4,500–8,000"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Cash on day one"
+      },
+      {
+        "type": "p",
+        "text": "A typical 2-year condo lease at S$4,000/month: two months’ deposit (S$8,000), one month advance, stamp duty of 0.4% of the total rent (about S$384, often split or tenant-paid), SP Group utilities deposit, and — if you engaged the agent — commission around one month plus GST on a 2-year lease. That is north of S$13,000 before you buy a bed."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Leases are usually 12 or 24 months. Diplomatic clause (break after 12 months with notice) is worth fighting for if your EP is 1–2 years.",
+          "Agency: landlord’s agent is paid by the landlord; if you use your own, you often pay. Confirm in writing.",
+          "Inventory and photos on handover. Aircon servicing is commonly 3-monthly and tenant-paid.",
+          "Minimum occupation period and HDB ethnicity/PR rules do not make HDB a casual backup plan. Read HDB first."
+        ]
+      },
+      {
+        "type": "callout",
+        "tone": "info",
+        "title": "Where to look",
+        "text": "PropertyGuru and 99.co for stock. SingaporeExpats classifieds still surface rooms. Walk the block at 8am and 8pm before you sign — that is the part portals cannot show."
+      },
+      {
+        "type": "cta",
+        "label": "Browse neighbourhoods",
+        "href": "/neighbourhoods"
+      }
+    ]
+  },
+  {
+    "slug": "cost-of-living-2026",
+    "title": "Cost of living 2026: a real monthly picture",
+    "excerpt": "A single professional in a 1-bed near an MRT is a different animal from a family of four in D10 with two school fees.",
+    "category": "money",
+    "updated": "6 Sep 2026",
+    "readMinutes": 6,
+    "tags": [
+      "cost of living",
+      "budget",
+      "rent",
+      "school",
+      "helper"
+    ],
+    "featured": true,
+    "sponsored": true,
+    "sponsorName": "Wise",
+    "sponsorHref": "https://wise.com/",
+    "body": [
+      {
+        "type": "callout",
+        "tone": "info",
+        "title": "Sponsored",
+        "text": "This guide includes a paid placement from Wise for sending money home. Figures below are editorial."
+      },
+      {
+        "type": "p",
+        "text": "Singapore is not expensive because of hawker food. It is expensive because of housing and, if you have children, school. Everything else is manageable if you live like a local and catastrophic if you recreate London in District 9."
+      },
+      {
+        "type": "h2",
+        "text": "Two planning sketches (monthly, SGD)"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Line",
+          "Single, RCR 1-bed",
+          "Family of 4, D10 3-bed"
+        ],
+        "rows": [
+          [
+            "Rent + utilities",
+            "3,400",
+            "9,500"
+          ],
+          [
+            "Food",
+            "700",
+            "2,200"
+          ],
+          [
+            "Transport",
+            "150",
+            "400"
+          ],
+          [
+            "Phone + fibre",
+            "80",
+            "160"
+          ],
+          [
+            "Health insurance (top-up)",
+            "200",
+            "1,200"
+          ],
+          [
+            "School (2 children, mid-tier)",
+            "—",
+            "7,500"
+          ],
+          [
+            "Helper + levy",
+            "—",
+            "1,300"
+          ],
+          [
+            "Misc / travel / help-parents",
+            "400",
+            "1,200"
+          ],
+          [
+            "Total (order of magnitude)",
+            "S$4,900",
+            "S$23,500"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Hawker meals are S$4–8. A mid-range dinner is S$25–60 a head. GST is 9% and already in most quoted prices. Tipping is not expected. The Adult Monthly Travel Pass is S$122; most people just tap."
+      },
+      {
+        "type": "p",
+        "text": "Sending money home: local banks are slow and wide on FX. Wise, Instarem and YouTrip are the usual stack. Open the local bank anyway — PayNow, salary, and rent will demand it."
+      },
+      {
+        "type": "cta",
+        "label": "Build a monthly budget",
+        "href": "/tools/cost-of-living"
+      }
+    ]
+  },
+  {
+    "slug": "income-tax-expats",
+    "title": "Income tax for expats: YA 2026 brackets, 183 days, no CGT",
+    "excerpt": "Territorial, progressive 0–24% if you are resident. Employment income for non-residents is taxed at the higher of 15% or resident rates.",
+    "category": "money",
+    "updated": "2 Jul 2026",
+    "readMinutes": 8,
+    "tags": [
+      "tax",
+      "iras",
+      "gst",
+      "cpf",
+      "183 days"
+    ],
+    "featured": true,
+    "body": [
+      {
+        "type": "p",
+        "text": "Singapore taxes Singapore-sourced income. There is generally no capital gains tax and no tax on foreign-sourced income not remitted in ways IRAS cares about. GST is 9%. Corporate tax is a different guide."
+      },
+      {
+        "type": "h2",
+        "text": "Are you a tax resident?"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "183 days or more in a calendar year → resident for that year.",
+          "Three consecutive years of presence can make you resident for all three (IRAS concession).",
+          "Residents get personal reliefs and the progressive scale.",
+          "Non-residents: no personal reliefs. Employment income taxed at the higher of 15% flat or the resident scale. Directors’ fees and many other payments: 24%."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Resident rates (YA 2026 / income 2025)"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Chargeable income",
+          "Marginal rate"
+        ],
+        "rows": [
+          [
+            "First S$20,000",
+            "0%"
+          ],
+          [
+            "Next 10,000",
+            "2%"
+          ],
+          [
+            "Next 10,000",
+            "3.5%"
+          ],
+          [
+            "Next 40,000",
+            "7%"
+          ],
+          [
+            "Next 40,000",
+            "11.5%"
+          ],
+          [
+            "Next 40,000",
+            "15%"
+          ],
+          [
+            "Next 40,000",
+            "18%"
+          ],
+          [
+            "Next 40,000",
+            "19%"
+          ],
+          [
+            "Next 40,000",
+            "19.5%"
+          ],
+          [
+            "Next 40,000",
+            "20%"
+          ],
+          [
+            "Next 180,000 (to 500k)",
+            "22%"
+          ],
+          [
+            "Next 500,000 (to 1m)",
+            "23%"
+          ],
+          [
+            "Above S$1,000,000",
+            "24%"
+          ]
+        ]
+      },
+      {
+        "type": "callout",
+        "tone": "ok",
+        "title": "CPF is not your problem — until PR",
+        "text": "EP and S Pass holders do not pay CPF and neither does the employer on your wages. That is why headline salary is not comparable to a citizen package. From PR, employer 17% + employee 20% phases in (ordinary wage ceiling S$8,000/month from January 2026)."
+      },
+      {
+        "type": "p",
+        "text": "IRAS will usually issue a tax return. File. Not filing is a much more expensive hobby than the tax itself. Double-tax agreements may change the picture if you still have income at home — that is an accountant hour, not a Reddit thread."
+      },
+      {
+        "type": "cta",
+        "label": "Estimate your tax",
+        "href": "/tools/tax"
+      }
+    ]
+  },
+  {
+    "slug": "healthcare-insurance",
+    "title": "Healthcare for expats 2026: you are not on MediShield",
+    "excerpt": "EP holders have no MediShield Life and no Medisave. A private night can run four figures before the surgeon walks in. Insurance is not optional.",
+    "category": "health",
+    "updated": "9 May 2026",
+    "readMinutes": 7,
+    "tags": [
+      "insurance",
+      "hospital",
+      "medishield",
+      "ipmi",
+      "gp"
+    ],
+    "featured": true,
+    "body": [
+      {
+        "type": "p",
+        "text": "Singapore’s public system is excellent — for people it was built for. Citizens and PRs get MediShield Life, subsidies, and Medisave. Employment Pass holders get the invoice. Employer group cover is the first thing to read in an offer, not the last."
+      },
+      {
+        "type": "stats",
+        "items": [
+          {
+            "label": "Private GP",
+            "value": "S$40–90",
+            "hint": "Consult, before tests"
+          },
+          {
+            "label": "Private single room",
+            "value": "S$700–1,500",
+            "hint": "Per night, before extras"
+          },
+          {
+            "label": "Uncomplicated birth",
+            "value": "S$10–15k",
+            "hint": "Private, order of magnitude"
+          },
+          {
+            "label": "Family IPMI",
+            "value": "S$6–18k/yr",
+            "hint": "If work will not cover dependants"
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "How people actually get care"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "GP first. Raffles, Parkway, or a neighbourhood clinic. A&E is for emergencies, and private A&E is priced like one.",
+          "Public hospitals (SGH, NUH, TTSH, etc.) will treat you. You pay unsubsidised rates.",
+          "Private: Mount Elizabeth, Gleneagles, Raffles, Farrer Park, Mount Alvernia, Thomson. This is where most insured expats go."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Insurance, 2026"
+      },
+      {
+        "type": "p",
+        "text": "Integrated Shield Plans and the new April 2026 rider rules (deductibles no longer fully rider-covered, co-pay cap lifted) are a citizen/PR product. Expats usually sit on employer group plans or international private medical insurance (Cigna, Allianz, AXA, Now Health, Bupa). Read: ward type, US/home-country cover, maternity wait, pre-existing, and whether the clinic you want is in-network."
+      },
+      {
+        "type": "callout",
+        "tone": "warn",
+        "title": "Offer-letter trap",
+        "text": "Many packages cover the employee at a private hospital and the family at a much thinner outpatient cap. Price the gap before you decline a slightly higher salary that includes dependants."
+      }
+    ]
+  },
+  {
+    "slug": "international-schools-2026",
+    "title": "International schools 2026/27: fees, waitlists, the real extras",
+    "excerpt": "Tuition runs about S$24,000–S$59,000. Then enrolment, bus, lunch, and the fact that the school you want is full.",
+    "category": "schools",
+    "updated": "11 Sep 2026",
+    "readMinutes": 8,
+    "tags": [
+      "schools",
+      "fees",
+      "ib",
+      "sas",
+      "tanglin",
+      "uwc"
+    ],
+    "featured": true,
+    "body": [
+      {
+        "type": "p",
+        "text": "School is the binding constraint on where families live. Pick the school, then the neighbourhood, then the condo — not the other way around. Waitlists at Tanglin, UWCSEA, SAS and the British majors are not a rumour."
+      },
+      {
+        "type": "h2",
+        "text": "Tuition, GST-inclusive, 2026/27"
+      },
+      {
+        "type": "p",
+        "text": "Figures are the top of each band (primary / middle / high). Always confirm on the school’s fee schedule — levies move."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "School",
+          "Primary",
+          "High",
+          "Area"
+        ],
+        "rows": [
+          [
+            "Dulwich College",
+            "S$46,760",
+            "S$59,220",
+            "Bukit Batok"
+          ],
+          [
+            "Tanglin Trust",
+            "S$47,490",
+            "S$58,080",
+            "Portsdown"
+          ],
+          [
+            "Stamford American",
+            "S$49,040",
+            "S$56,110",
+            "Woodleigh"
+          ],
+          [
+            "NLCS",
+            "S$46,307",
+            "S$55,733",
+            "Bukit Gombak"
+          ],
+          [
+            "CIS",
+            "S$45,520",
+            "S$53,500",
+            "Lakeside / TK"
+          ],
+          [
+            "AIS",
+            "S$43,692",
+            "S$53,148",
+            "Serangoon"
+          ],
+          [
+            "UWCSEA",
+            "S$40,743",
+            "S$49,926",
+            "Dover / East"
+          ],
+          [
+            "SAS",
+            "S$37,640",
+            "S$43,780",
+            "Woodlands"
+          ],
+          [
+            "GESS",
+            "S$35,770",
+            "S$43,990",
+            "Dairy Farm"
+          ],
+          [
+            "SJI International",
+            "S$36,052",
+            "S$39,802",
+            "Thomson"
+          ],
+          [
+            "Invictus",
+            "S$23,806",
+            "S$28,969",
+            "Several"
+          ],
+          [
+            "OWIS Nanyang",
+            "S$24,158",
+            "S$27,774",
+            "Jurong"
+          ]
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Application + enrolment + building levy can add S$5,000–25,000 up front.",
+          "Bus and meals: budget S$7,500–15,000 per child per year at the big schools.",
+          "MOE local schools are cheaper (non-ASEAN international students pay roughly S$1,035/month primary, S$2,190 secondary in 2026) but admission is not a right and the system is not designed around a three-year EP."
+        ]
+      },
+      {
+        "type": "cta",
+        "label": "Full school table",
+        "href": "/guides/international-schools-2026"
+      }
+    ]
+  },
+  {
+    "slug": "banking-and-money",
+    "title": "Banking for expats: DBS first, PayNow immediately, FX separately",
+    "excerpt": "Open with an IPA letter if you can. Singpass makes KYC boring, which is the goal. PayNow is how the country moves money.",
+    "category": "money",
+    "updated": "3 Sep 2026",
+    "readMinutes": 6,
+    "tags": [
+      "bank",
+      "dbs",
+      "ocbc",
+      "paynow",
+      "wise",
+      "singpass"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "You want a local SGD account before your first salary hits. DBS is the path of least resistance for many EP holders: IPA letter often accepted, app is the best of the local three, Multiplier can pay decent interest if you jump through its hoops. OCBC 360 and UOB One are the usual comparisons."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Bank",
+          "Why expats use it",
+          "Watch"
+        ],
+        "rows": [
+          [
+            "DBS",
+            "IPA, app, Multiplier, everywhere",
+            "Still bring passport, pass, address, tax residency"
+          ],
+          [
+            "OCBC",
+            "360 account, cards",
+            "Confirm IPA policy at your branch"
+          ],
+          [
+            "UOB",
+            "Regional travel, One Account",
+            "Slightly fussier onboarding"
+          ],
+          [
+            "HSBC",
+            "If you already live in HSBC",
+            "Premier AUM is not a starter account"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The first-week checklist"
+      },
+      {
+        "type": "ol",
+        "items": [
+          "Register Singpass with FIN + SG mobile (face verification).",
+          "Open the bank in-app with Singpass, or book a branch with passport, pass or IPA, proof of address, employment letter.",
+          "Turn on PayNow against your mobile number the same day.",
+          "Keep Wise / YouTrip for cross-border. Do not use them as your only account."
+        ]
+      },
+      {
+        "type": "callout",
+        "tone": "info",
+        "title": "Proof of address is the stuck point",
+        "text": "A fresh arrival has no utility bill. Banks will take an employment letter, tenancy, or IPA with a stated address. Get HR to put the service-apartment address in writing."
+      }
+    ]
+  },
+  {
+    "slug": "getting-around",
+    "title": "Getting around: MRT, SimplyGo, Grab, and why you probably should not buy a car",
+    "excerpt": "Fares S$1.28–S$2.57. Adult monthly pass S$122. A car is a COE story, not a convenience story.",
+    "category": "daily",
+    "updated": "11 Sep 2026",
+    "readMinutes": 6,
+    "tags": [
+      "mrt",
+      "simplygo",
+      "grab",
+      "coe",
+      "erp",
+      "bus"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "The MRT is the reason this city works. Six main lines, more opening in phases, 5:30 to about midnight. Tap a SimplyGo card, an EZ-Link, or a contactless Visa/Mastercard / phone wallet. Same adult fare."
+      },
+      {
+        "type": "stats",
+        "items": [
+          {
+            "label": "Short hop",
+            "value": "S$1.28",
+            "hint": "Up to 3.2 km"
+          },
+          {
+            "label": "Long ride cap",
+            "value": "S$2.57",
+            "hint": "Over 40.2 km"
+          },
+          {
+            "label": "Monthly pass",
+            "value": "S$122",
+            "hint": "Basic bus + train"
+          },
+          {
+            "label": "Early-bird MRT",
+            "value": "−S$0.50",
+            "hint": "Weekday tap-in before 7:45"
+          }
+        ]
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Grab is fine. ComfortDelGro / Gojek sometimes cheaper. Street hail still exists.",
+          "Buses fill the gaps the MRT pretends not to have. SimplyGo covers them.",
+          "A car means COE (five-figure, currently brutal), ERP gantries, parking, and insurance. Families in Woodlands or with two school runs sometimes still do it. CBD singles almost never should."
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Changi is a superpower. KL, Bangkok, Jakarta, Bali, Penang, Hong Kong are weekend distance. Budget that into the cost-of-living, because you will."
+      }
+    ]
+  },
+  {
+    "slug": "first-30-days",
+    "title": "First 30 days: the sequence that actually matters",
+    "excerpt": "IPA is not an EP card. FIN, medical, card collection, Singpass, bank, phone, housing — in that order, with the traps marked.",
+    "category": "daily",
+    "updated": "14 Sep 2026",
+    "readMinutes": 7,
+    "tags": [
+      "arrival",
+      "ica",
+      "mom",
+      "singpass",
+      "fin",
+      "checklist"
+    ],
+    "featured": true,
+    "body": [
+      {
+        "type": "ol",
+        "items": [
+          "Do not fly until you have the In-Principle Approval and know the medical and card-collection steps your employer expects.",
+          "Complete the MOM medical if required. Fail this and the pass does not complete.",
+          "Collect the EP card. Your FIN is on it. Photograph it.",
+          "Get a Singapore number the same day (airport SIM is fine, port later).",
+          "Register Singpass. Face verification. This unlocks the country.",
+          "Open a bank account. DBS if you want the least drama.",
+          "Enable PayNow.",
+          "Housing: service apartment or hotel for two weeks beats a panicked 24-month lease.",
+          "Register address as required. Keep HR in the loop — they are the ones MOM will call.",
+          "Only then: furniture, clubs, school tours, weekend in Bali."
+        ]
+      },
+      {
+        "type": "callout",
+        "tone": "warn",
+        "title": "Things that are actually illegal",
+        "text": "Vaping is banned. Chewing-gum sale is restricted. Drugs are a capital-offence regime — this is not posturing. Smoking only in designated spots. Littering and jaywalking are fined. Work only for the employer on the pass unless MOM says otherwise."
+      },
+      {
+        "type": "h2",
+        "text": "Apps to install in the airport queue"
+      },
+      {
+        "type": "p",
+        "text": "Singpass, SimplyGo, Grab, your bank, NEA myENV, Google Maps, Carousell, and whatever chat your HR lives in. See the full list on Daily life."
+      },
+      {
+        "type": "cta",
+        "label": "Daily life & apps",
+        "href": "/guides/daily-life"
+      }
+    ]
+  },
+  {
+    "slug": "daily-life",
+    "title": "Daily life: hawker, weather, rules, helpers, weekends",
+    "excerpt": "English at work, Singlish in the kopitiam, 25–34°C, and a social life that is more organised than you think.",
+    "category": "daily",
+    "updated": "14 Sep 2026",
+    "readMinutes": 6,
+    "tags": [
+      "hawker",
+      "weather",
+      "fines",
+      "helper",
+      "apps",
+      "singlish"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "English is the working language. You will still meet Singlish on day one (lah, leh, can, catch no ball). Hawker centres are UNESCO-listed and also just lunch. Maxwell, Lau Pa Sat, Old Airport Road, Tiong Bahru, Amoy, Tekka — pick a near one and become a regular."
+      },
+      {
+        "type": "h2",
+        "text": "Climate"
+      },
+      {
+        "type": "p",
+        "text": "Tropical, year-round. 25–34°C, humidity that laughs at linen. Two monsoon patterns, afternoon storms, haze when Sumatra burns. Every indoor space is air-conditioned; the street is not. Umbrella in the bag is not a personality, it is hygiene."
+      },
+      {
+        "type": "h2",
+        "text": "Helpers"
+      },
+      {
+        "type": "p",
+        "text": "Many expat families employ a foreign domestic worker. Budget salary S$850–1,200, levy (often S$300 unless concession), insurance, and the legal rest day. MOM sets the rules; agencies handle matching. This is a regulated employment relationship, not a lifestyle extra."
+      },
+      {
+        "type": "h2",
+        "text": "People"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "InterNations, Meetup, and the big Facebook/Telegram groups (ExpatSG and nationality groups) are how most new arrivals meet anyone.",
+          "Clubs: American Club, Tanglin, British Club, SCC — membership is money and often a proposer.",
+          "AWA, PrimeTime, ANZA, and the American Association still do the heavy lifting for trailing spouses and careers."
+        ]
+      },
+      {
+        "type": "cta",
+        "label": "Must-have apps",
+        "href": "/guides/daily-life"
+      }
+    ]
+  },
+  {
+    "slug": "finding-work",
+    "title": "Finding work in Singapore: EP reality, job boards, trailing spouses",
+    "excerpt": "The job has to carry the pass. LinkedIn, MyCareersFuture, and a company that will sponsor are the whole game.",
+    "category": "work",
+    "updated": "6 Aug 2026",
+    "readMinutes": 6,
+    "tags": [
+      "jobs",
+      "linkedin",
+      "ep",
+      "trailing spouse",
+      "salary"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "You generally cannot freelance your way into an EP. A Singapore employer files the pass, pays you a qualifying salary, and clears COMPASS. Remote work for an overseas company is a different (and tighter) conversation — do not assume a laptop and a tourist entry is a plan."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "LinkedIn is the professional market.",
+          "MyCareersFuture is the government board — more citizen-core, still worth it.",
+          "Jobstreet / JobsDB for volume.",
+          "eFinancialCareers for the banks.",
+          "Company career pages for the firms that already hire EPs every quarter."
+        ]
+      },
+      {
+        "type": "callout",
+        "tone": "warn",
+        "title": "Dependent Pass work",
+        "text": "A DP is not a work pass. Letter of Consent is possible in defined cases; many trailing spouses still need their own EP. Interviewers will ask about your pass. Tell the truth."
+      },
+      {
+        "type": "p",
+        "text": "Salary: match it to the EP age curve and the sector COMPASS benchmarks, not to your last London/NY/Mumbai package in isolation. Housing allowance, school, and tax equalisation are the parts of a package that change family maths by tens of thousands."
+      }
+    ]
+  },
+  {
+    "slug": "neighbourhoods-how-to-choose",
+    "title": "How to choose a neighbourhood (without the top-10 list)",
+    "excerpt": "School, commute, budget, noise. In that order. The rest is taste.",
+    "category": "housing",
+    "updated": "14 Sep 2026",
+    "readMinutes": 5,
+    "tags": [
+      "neighbourhoods",
+      "holland",
+      "east coast",
+      "tiong bahru",
+      "woodlands"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Forget ‘best expat areas’. There are areas that match a school run, a CBD walk, or a budget. Holland Village is a fine landing pad and a poor long-term fit if you need three bedrooms and SAS. Woodlands is a gift if SAS is the school and a grind if you are in Marina Bay at 8.30am."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "If you…",
+          "Look at",
+          "Avoid pretending"
+        ],
+        "rows": [
+          [
+            "Need to land in two weeks",
+            "Holland V, River Valley, Tanjong Pagar serviced",
+            "A perfect 24-month lease sight-unseen"
+          ],
+          [
+            "Work in CBD, no kids",
+            "Tanjong Pagar, Tiong Bahru, Newton",
+            "That a car will save you time"
+          ],
+          [
+            "Have school-age kids (British)",
+            "Bukit Timah, Portsdown, D10/D21",
+            "East Coast if the bus is 70 minutes"
+          ],
+          [
+            "Have kids at SAS",
+            "Woodlands",
+            "That the NSL is ‘fine every day’ without trying it"
+          ],
+          [
+            "Want air and a hawker life",
+            "East Coast / Katong, Tiong Bahru",
+            "CCR square footage at OCR prices"
+          ],
+          [
+            "Work in one-north / NUS",
+            "Clementi, Dover, Buona Vista",
+            "A D9 prestige commute"
+          ]
+        ]
+      },
+      {
+        "type": "cta",
+        "label": "12 neighbourhoods, with rents",
+        "href": "/neighbourhoods"
+      }
+    ]
+  }
+]
