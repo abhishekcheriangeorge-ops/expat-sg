@@ -90,6 +90,79 @@
     ]
   },
   {
+    "slug": "date-night-not-clarke-quay",
+    "title": "Date night that is not Clarke Quay",
+    "kicker": "Weekend",
+    "category": "weekend",
+    "excerpt": "A good night out here is a hawker table, one proper drink, and a walk. Clarke Quay is a tourist funnel with a cover charge energy. Budget S$60–120 for two if you refuse the funnel.",
+    "updated": "15 September 2026",
+    "readMinutes": 6,
+    "featured": false,
+    "hero": "/live/kampong-glam.jpg",
+    "tags": [
+      "date night",
+      "bars",
+      "tiong bahru",
+      "kampong glam",
+      "gallery",
+      "clarke quay"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Clarke Quay will take your money and give you a soundtrack. If you already live here, you do not need that. The island’s actual date night is earlier, cheaper, and two MRT stops from whoever you are meeting. Pick a neighbourhood, eat sitting down, walk, one bar with chairs. Last train is the constraint. Grab from Boat Quay to Tiong Bahru at 12.40am is how a S$70 night becomes S$110."
+      },
+      {
+        "type": "h2",
+        "text": "The S$60 version"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Hawker for two: S$16–28. Maxwell, Old Airport Road, Chomp Chomp, Tiong Bahru Market upstairs. No one is grading your romance on a white tablecloth.",
+          "Walk: Tiong Bahru’s streets, Kampong Gelam after the heat drops, the river without entering a club, East Coast Park if you already live east.",
+          "One cocktail or two beers: S$20–36. Independent bars in Duxton, Keong Saik, Joo Chiat side streets, Haji Lane if you can stand the weekend. Sit. Do not do a bar crawl that is actually a queue crawl."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The S$120 version"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "National Gallery or ArtScience late, then a sit-down in the Civic District. Esplanade free stages if the month’s grid is good — see What’s on.",
+          "A neighbourhood restaurant that is not a group-buy. Book. Tiong Bahru, Joo Chiat, Dempsey if you have a car or a patient Grab, Chip Bee if you already live west.",
+          "Dessert is a kayak toast or a proper ice kachang, not a S$18 ‘deconstructed’ anything."
+        ]
+      },
+      {
+        "type": "callout",
+        "tone": "info",
+        "title": "This week",
+        "text": "River Festival runs through 20 September along Boat, Clarke and Robertson — walk the river, skip the loudest zone. Chinatown lanterns Saturday 19 Sep, 6pm at Kreta Ayer. That is a date. Buying a table at Clarke Quay because the festival is ‘nearby’ is not."
+      },
+      {
+        "type": "h2",
+        "text": "Rules that keep it a date"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Do not ‘see how’ at 8pm on a Saturday for anywhere with a view. Book or go heartland.",
+          "If one of you has a 7am school run, the night ends at 10.30. That is adult.",
+          "Phone on the table face-down. The person opposite is the point. Singapore will still be here at 11.",
+          "Rain: mall food courts are allowed. So is a kopitiam. So is staying in and not turning it into a referendum on the relationship."
+        ]
+      },
+      {
+        "type": "cta",
+        "label": "After seven, the geography",
+        "href": "/live/after-seven"
+      }
+    ]
+  },
+  {
     "slug": "a-gp-not-ae-2026",
     "title": "A GP, not A&E",
     "kicker": "City",
