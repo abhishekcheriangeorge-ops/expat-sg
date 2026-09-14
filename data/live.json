@@ -90,6 +90,85 @@
     ]
   },
   {
+    "slug": "condo-is-not-a-country",
+    "title": "Your condo is not a country",
+    "kicker": "City",
+    "category": "city",
+    "excerpt": "The pool has hours. The BBQ pit is a booking, not a birthright. Renovation is weekdays. Security will call you about the Grab. Learn the house rules in week one or you become the WhatsApp screenshot.",
+    "updated": "15 September 2026",
+    "readMinutes": 8,
+    "featured": false,
+    "hero": "/live/marina-bay.jpg",
+    "tags": [
+      "condo",
+      "mcst",
+      "house rules",
+      "renovation",
+      "hdb",
+      "facilities",
+      "neighbour"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "A Singapore condo is a small town with a gym, a WhatsApp group, and a set of by-laws you did not write. The Management Corporation (MCST) runs the common property. Security works for them, not for your delivery driver’s parking style. You rent a unit. You do not rent the right to treat the function room as your living room."
+      },
+      {
+        "type": "h2",
+        "text": "The rules that actually bite"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Pool, spa, gym: posted hours. Children in the adult lap lane is how you meet the committee. Towels on sunbeds for three hours while you go to work is how you meet them faster.",
+          "BBQ pits and function rooms: book on the condo app or at the management office. Deposit, time slot, clean-up. The pit is not first-come on Saturday at 4pm because you saw it empty.",
+          "Renovation: typically weekday daytime only, a deposit, a permit, no hacking on Sundays. Your contractor already knows. You are the one who has to file it. Start two weeks before the sofa arrives.",
+          "Visitor parking: coupons or a QR, not ‘I’ll just be five minutes’. The barrier arm does not care that you are late for the school run.",
+          "Short-term stays: most MCSTs ban anything that looks like Airbnb. Your lease probably does too. So does the law, for stays under three months in a private residential unit without the right approvals."
+        ]
+      },
+      {
+        "type": "callout",
+        "tone": "warn",
+        "title": "Noise",
+        "text": "Mahjong, a baby, a dog, a Sunday roast — all legal. A 11pm speaker facing the courtyard is how you get a notice. Flooring: many stacks require acoustic underlay before you put down timber. Ask before you ‘refresh’ the unit."
+      },
+      {
+        "type": "h2",
+        "text": "HDB is a different country"
+      },
+      {
+        "type": "p",
+        "text": "If you rented an HDB, there is no MCST. There is a town council, a void deck, a corridor you do not block, and neighbours who have lived there since before your pass existed. Conservancy charges are in the rent. BBQ pits are still booked, just through a different app. Laundry on a stick is normal. Judging it is the fastest way to stay an outsider."
+      },
+      {
+        "type": "h2",
+        "text": "How not to be the unit in 27-04"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Read the house rules PDF the agent buried in the email. Print the pool hours on the fridge.",
+          "Register every person in the household with security, including the helper and the baby. Cards, tags, face ID — whatever this building uses.",
+          "Do not hold the carpark barrier with your body for a friend. Do not prop the fire door with a yoga mat.",
+          "Drip umbrellas, wet shoes, gym sweat: the lift is shared. A towel costs less than a complaint.",
+          "The residents’ WhatsApp is not customer service. Defects go to management. Neighbour disputes go to management, then the Community Mediation Centre, not a thread of 40 people."
+        ]
+      },
+      {
+        "type": "callout",
+        "tone": "info",
+        "title": "Facilities are why you pay",
+        "text": "You paid for the pool in the rent. Using it at 7am is the point. Using it as a private party for twelve without a booking is how the AGM gets ugly. Be the household that books, cleans, and leaves on time."
+      },
+      {
+        "type": "cta",
+        "label": "Renting, including the house-rules bit",
+        "href": "/guides/renting-in-singapore"
+      }
+    ]
+  },
+  {
     "slug": "gym-without-the-contract-2026",
     "title": "A gym that is not a 12-month hostage",
     "kicker": "Daily money",
