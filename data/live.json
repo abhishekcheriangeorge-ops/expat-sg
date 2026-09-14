@@ -90,6 +90,77 @@
     ]
   },
   {
+    "slug": "teeth-are-not-free-2026",
+    "title": "Teeth are not free here",
+    "kicker": "City",
+    "category": "city",
+    "excerpt": "A polyclinic scale-and-polish for a non-resident can hit S$150–277. Private cleaning is often S$80–220 plus consult. CHAS is not for EP holders. Book a dentist the month you land, not when something hurts.",
+    "updated": "15 September 2026",
+    "readMinutes": 7,
+    "featured": false,
+    "hero": "/live/kampong-glam.jpg",
+    "tags": [
+      "dental",
+      "dentist",
+      "ndcs",
+      "polyclinic",
+      "chas",
+      "kids",
+      "insurance"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Dental in Singapore is excellent and mostly out of pocket. MediSave touches surgical work, not the six-monthly clean. CHAS is for citizens. Your fancy inpatient plan often has a dental rider that covers S$80 of a S$250 visit and then smiles at you. Treat teeth like the car you did not buy: scheduled maintenance, a named workshop, no heroics at 9pm."
+      },
+      {
+        "type": "h2",
+        "text": "What it costs in 2026"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "SingHealth polyclinic dental, non-resident: examination about S$57–100; scaling and polishing about S$148–277; a simple filling S$74–176. GST in. Citizens pay a fraction. PRs sit in the middle.",
+          "NUP dental (Bukit Panjang, Jurong, Queenstown only): non-resident consult about S$52–89; emergency walk-in about S$95. Appointment, not a vibe.",
+          "Private consult commonly S$30–80. Scale and polish S$80–220. Filling S$100–350. Root canal S$600–1,400 depending on the tooth. Crown S$800–1,800. Implant from about S$3,000–6,000 a tooth.",
+          "NDCS (National Dental Centre) is the public specialist. Referral, wait, then a bill that is still not ‘free’ if you are not subsidised."
+        ]
+      },
+      {
+        "type": "callout",
+        "tone": "warn",
+        "title": "The rider",
+        "text": "Read the outpatient dental cap before you sit in the chair. Many group plans reimburse a slice of cleaning twice a year and almost nothing of orthodontics. Kids’ braces are a second school-fee."
+      },
+      {
+        "type": "h2",
+        "text": "Kids"
+      },
+      {
+        "type": "p",
+        "text": "School dental service is an MOE-world thing. International-school children need a private paediatric dentist or a family clinic that will actually see a six-year-old. First visit before something is wrong. Fluoride and a clean beat a Sunday swelling. If it is swelling, after-hours is a hospital dental or the emergency number your clinic published — not Google ‘cheap implant Orchard’."
+      },
+      {
+        "type": "h2",
+        "text": "How to pick one"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Walking distance from home or work. You will cancel the one in a mall you drive past twice a year.",
+          "Price list on the wall or the site. MOH wants benchmarks displayed. If they will not say the clean fee before they scale, leave.",
+          "Same building as your GP is a gift. Same insurer panel is a bigger gift.",
+          "Do not fly to JB for a cheap implant unless you already understand warranty, follow-up, and what happens when it fails on a Tuesday in Novena."
+        ]
+      },
+      {
+        "type": "cta",
+        "label": "A GP, not A&E",
+        "href": "/live/a-gp-not-ae-2026"
+      }
+    ]
+  },
+  {
     "slug": "date-night-not-clarke-quay",
     "title": "Date night that is not Clarke Quay",
     "kicker": "Weekend",
