@@ -1,7 +1,68 @@
 {
-  "updated": "14 September 2026",
-  "lead": "What the island is doing. Not a tourist brochure \u2014 the weeks a resident actually plans around.",
+  "updated": "15 September 2026",
+  "lead": "This week: River Festival ends Sunday. Chinatown lanterns Saturday 6pm. Common Rare at Suntec. Then F1 in October.",
   "items": [
+    {
+      "id": "srf-2026",
+      "title": "Singapore River Festival (last days)",
+      "dates": "Until 20 September 2026",
+      "when": "2026-09-20",
+      "venue": "Boat, Clarke and Robertson Quay",
+      "kind": "festival",
+      "featured": true,
+      "blurb": "10th edition, The Quay Collective. Boat Quay entertainment, Clarke expression, Robertson wellness. Free along the river; some ticketed boat rides. Ends Sunday.",
+      "href": "/live/after-seven"
+    },
+    {
+      "id": "chinatown-midautumn-procession",
+      "title": "Chinatown Mid-Autumn \u2014 Light a Lantern",
+      "dates": "19 September 2026, 6pm",
+      "when": "2026-09-19",
+      "venue": "Kreta Ayer Square / Banda Street",
+      "kind": "festival",
+      "blurb": "No giant lanterns on Eu Tong Sen this year. Community lanterns 11 Sep\u20134 Oct. Saturday 19 Sep 6pm: procession, mooncake and tea, riddles in four languages. Lion dance and wushu 2pm. Free.",
+      "href": "/live/mid-autumn-office"
+    },
+    {
+      "id": "common-rare-sep",
+      "title": "Common Rare Market",
+      "dates": "18\u201320 September 2026",
+      "when": "2026-09-18",
+      "venue": "Suntec City Convention Centre, Hall 401\u2013402",
+      "kind": "weekend",
+      "blurb": "200 independent brands, 12.30pm\u20139pm. Tickets from S$7; under-12s free. The indoor weekend if the weather does what it does.",
+      "href": "/live/weekend-that-isnt-orchard"
+    },
+    {
+      "id": "gbtb-midautumn",
+      "title": "Gardens by the Bay Mid-Autumn",
+      "dates": "12\u201327 September 2026",
+      "when": "2026-09-12",
+      "venue": "Marina Gardens Drive",
+      "kind": "festival",
+      "blurb": "Lanterns without the office-pantry small talk. Outdoor gardens are still free; go after 7pm when the heat drops.",
+      "href": "/live/mid-autumn-office"
+    },
+    {
+      "id": "lights-by-the-lake",
+      "title": "Lights by the Lake",
+      "dates": "18\u201327 September 2026",
+      "when": "2026-09-18",
+      "venue": "Lakeside Field, Jurong Lake Gardens",
+      "kind": "festival",
+      "blurb": "West-side Mid-Autumn food fair, 6.30\u201311pm. Official start 19 Sep; some stalls from the 18th. Lakeside MRT. Heartland, not the bay.",
+      "href": "/live/mid-autumn-office"
+    },
+    {
+      "id": "music-matters-live-2026",
+      "title": "Music Matters Live",
+      "dates": "2\u20134 and 7 October 2026",
+      "when": "2026-10-02",
+      "venue": "CQ @ Clarke Quay",
+      "kind": "arts",
+      "blurb": "21st edition, free. 40 acts from 15 countries across Fountain Square and Swee Lee. Four nights before F1 swallows the river.",
+      "href": "/live/after-seven"
+    },
     {
       "id": "mid-autumn-2026",
       "title": "Mid-Autumn Festival",
