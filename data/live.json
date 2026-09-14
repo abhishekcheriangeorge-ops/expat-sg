@@ -90,6 +90,100 @@
     ]
   },
   {
+    "slug": "giving-birth-singapore-2026",
+    "title": "Having a baby here: the 2026 version",
+    "kicker": "Family",
+    "category": "family",
+    "excerpt": "Public wards from about S$1,500. Private packages from about S$10,000 before the extras. Government-paid maternity leave is for citizen children. Read the bill before you pick a gynae because of a friend\u2019s Instagram.",
+    "updated": "15 September 2026",
+    "readMinutes": 9,
+    "featured": false,
+    "hero": "/live/playground.jpg",
+    "tags": [
+      "baby",
+      "birth",
+      "kkh",
+      "maternity",
+      "mount elizabeth",
+      "nuh",
+      "dependant pass",
+      "family"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "Singapore is an excellent place to deliver a baby and an expensive place to do it without a plan. The hospital is the easy part. The hard parts are: which ward you are actually allowed into, whether MediSave or your insurer will touch the bill, and whether your leave is the 16-week government scheme or the 12-week Employment Act version. Most expat parents are on the second."
+      },
+      {
+        "type": "h2",
+        "text": "What the bill looks like in 2026"
+      },
+      {
+        "type": "p",
+        "text": "Typical vaginal-delivery bills (MOH-style ranges, not a quote): KKH B2 about S$2,000\u20132,700; KKH or NUH A-class about S$6,000\u20137,500; Thomson or Raffles single about S$10,000\u201315,000; Mount Elizabeth or Gleneagles single about S$12,000\u201316,000. C-section is roughly 1.5\u20132\u00d7. Private \u2018packages\u2019 rarely include NICU, epidural extras, or a long stay. Ask for the exclusion list in writing."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "KKH still delivers more babies than anywhere else on the island. Public, busy, competent. Subsidised B2/C is for citizens and some PRs \u2014 most EP families sit in A/B1 or go private.",
+          "NUH if you already live west. SGH if you already live south. Do not pick a hospital an hour from your condo because the lobby is nicer.",
+          "Thomson Medical is the classic private maternity hospital. Mount E, Gleneagles, Raffles, Mount Alvernia, Parkway East (halal confinement menu) if you already have a gynae there.",
+          "Antenatal private packages often land around S$2,000\u20135,000 before delivery. That is scans and consults, not the birth."
+        ]
+      },
+      {
+        "type": "callout",
+        "tone": "warn",
+        "title": "Insurance first, gynae second",
+        "text": "Call the insurer the week you see two lines. Maternity is often excluded for 10\u201312 months, or capped, or only paid if the rider was in force before conception. A Mount E lobby is not a benefits table."
+      },
+      {
+        "type": "h2",
+        "text": "Leave: citizen baby vs everyone else"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Government-Paid Maternity Leave is 16 weeks, and it is for a Singapore-citizen child plus the usual service rules. Reimbursement ceiling is S$10,000 per four weeks. First two child orders: eight weeks employer, eight government; later orders mostly government.",
+          "If the child is not a citizen \u2014 the usual EP/S Pass case \u2014 you are on the Employment Act: 12 weeks, of which the paid portion depends on service and your contract. Read the contract. Do not assume 16.",
+          "Paternity and shared parental leave are also built around citizen children. Your company\u2019s handbook may be more generous than MOM. Get HR to write the dates."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The baby is a person. ICA needs to know."
+      },
+      {
+        "type": "p",
+        "text": "Register the birth. Apply for a passport from your embassy (timelines vary; US/UK/AU/EU are not the same week). Then a Dependant\u2019s Pass or Long-Term Visit Pass through MOM, tied to the working parent\u2019s pass. The baby cannot \u2018just stay on the tourist stamp\u2019. Schools, polyclinics and travel will all ask. Start the DP while you are still on confinement leave, not the week before you fly to see grandparents."
+      },
+      {
+        "type": "h2",
+        "text": "The unglamorous list"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Confinement nanny vs helper vs parents flying in. A good confinement nanny is booked months out and is not cheap. A helper is a different legal relationship \u2014 see the helper piece.",
+          "Paediatrician: polyclinic if you have access; private if you want same-week appointments and English notes for the home-country file.",
+          "Vaccinations follow the National Childhood Immunisation Schedule. Keep the booklet. International-school nurses will ask.",
+          "If you plan to leave Singapore within a year, say so to the gynae. Discharge summaries and growth charts travel better than WhatsApp photos."
+        ]
+      },
+      {
+        "type": "callout",
+        "tone": "info",
+        "title": "Public is not a consolation prize",
+        "text": "KKH and NUH A/B1 are where a large number of doctors would send their own. Private is privacy, a known gynae, and a quieter night. Neither choice is a personality."
+      },
+      {
+        "type": "cta",
+        "label": "Health insurance, actually",
+        "href": "/guides/healthcare-insurance"
+      }
+    ]
+  },
+  {
     "slug": "hawker-without-looking-lost",
     "title": "How to walk into a hawker centre without looking lost",
     "kicker": "Food",
