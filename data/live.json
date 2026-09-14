@@ -1,5 +1,95 @@
 [
   {
+    "slug": "should-you-own-a-car-2026",
+    "title": "Should you own a car in Singapore in 2026?",
+    "kicker": "Daily money",
+    "category": "money",
+    "excerpt": "Category A COE hit a record S$133,009 on 9 September. Next bid is 21 September. For most households the honest answer is still no \u2014 unless school run and two kids make Grab a second job.",
+    "updated": "15 September 2026",
+    "readMinutes": 8,
+    "featured": true,
+    "hero": "/live/east-coast.jpg",
+    "tags": [
+      "car",
+      "coe",
+      "erp",
+      "grab",
+      "driving",
+      "lta",
+      "category a"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "The 9 September 2026 tender put Category A (cars up to 1,600cc and 130 bhp, or 110 kW) at S$133,009 \u2014 an all-time high. Category B was S$135,001. Open (E) S$137,890. Motorcycle (D) S$12,556. Next bidding: Monday 21 September, noon; results Wednesday 23 September, 4pm. If you are waiting for COE to \u2018come back down before we buy\u2019, you have been saying that since 2023."
+      },
+      {
+        "type": "h2",
+        "text": "What a car actually costs"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "COE is ten years of permission to own the car, not the car. On a Cat A bid at S$133k you are paying more for the paper than for many of the cars it is attached to.",
+          "Then: OMV, excise, GST, registration, ARF. A \u2018cheap\u2019 compact is not cheap. Budget S$180k\u2013250k on-the-road for something ordinary, more if you have taste.",
+          "Petrol or electricity, parking at the condo (S$150\u2013300/month if it is not bundled), ERP, insurance, servicing. ERP 2.0 is distance-and-time charging, not the old gantry surprise \u2014 still not free.",
+          "After ten years you revalidate at the Prevailing Quota Premium (PQP). September 2026 PQP: Cat A S$126,208, Cat B S$128,697. That is another six-figure decision, not a formality."
+        ]
+      },
+      {
+        "type": "callout",
+        "tone": "warn",
+        "title": "The test",
+        "text": "If you cannot write a cheque for the COE without calling the bank, you cannot afford the car. Singapore will not finance your lifestyle at these premiums and call it middle class."
+      },
+      {
+        "type": "h2",
+        "text": "When a car still wins"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Two children at two different international schools, neither on an MRT. The 7.15am school run is why Bukit Timah and the east still buy.",
+          "A helper who cannot legally drive your car, and a partner who also works. Time is the scarce thing, not the Grab receipt.",
+          "Weekend sports that involve a boot: bikes, a dog, a cooler, East Coast at 6.30am.",
+          "You already drive, you will be here five years-plus, and the company is paying. Then it is a benefit, not a hobby."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "When it does not"
+      },
+      {
+        "type": "p",
+        "text": "One adult, CBD job, Tiong Bahru or Tanjong Pagar walk-up: you will spend more on the car than on rent. SimplyGo, a folding bike, and Grab for the wet night is how most of the island actually moves. The adult monthly travel pass is S$122. A mid-range Grab to town is S$18\u201328. Do the arithmetic for a month before you bid."
+      },
+      {
+        "type": "h2",
+        "text": "If you still want one"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Lease or company car first. You are renting the depreciation and the COE together. Get the number in writing.",
+          "Parallel import vs authorised: warranty and workshop access matter more than the sticker once something breaks.",
+          "Do not bid Cat E \u2018because it is flexible\u2019 unless you know why. You are paying Open-category money for the privilege of competing with everyone.",
+          "Off-peak cars exist. They are a lifestyle with a clock. Fine if your use is weekends; misery if your use is 8am school."
+        ]
+      },
+      {
+        "type": "callout",
+        "tone": "info",
+        "title": "21 September",
+        "text": "If you are bidding this round, set a ceiling tonight and do not raise it in the last ten minutes because a group chat got loud. LTA does not care that your child starts term."
+      },
+      {
+        "type": "cta",
+        "label": "Getting around without a car",
+        "href": "/guides/getting-around"
+      }
+    ]
+  },
+  {
     "slug": "hawker-without-looking-lost",
     "title": "How to walk into a hawker centre without looking lost",
     "kicker": "Food",
