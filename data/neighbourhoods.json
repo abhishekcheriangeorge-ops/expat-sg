@@ -679,5 +679,55 @@
       "arab street",
       "walkable"
     ]
+  },
+  {
+    "slug": "little-india",
+    "name": "Little India / Farrer Park",
+    "district": "D08",
+    "region": "RCR",
+    "blurb": "Tekka, Mustafa at 2am, Race Course Road, and a real NEL commute. Deepavali is the loud month. The rest of the year this is groceries, gold shops, and more space than Kampong Glam for the money.",
+    "bestFor": [
+      "NEL commuters",
+      "Night owls",
+      "Value vs the Civic District"
+    ],
+    "vibe": "Market streets, 24-hour fluorescent, Farrer Park condos above the fray. Weekend temple crowds.",
+    "mrt": [
+      "Little India (NEL/DTL)",
+      "Farrer Park (NEL)",
+      "Jalan Besar (DTL)",
+      "Rochor (DTL)"
+    ],
+    "commuteCbd": "10–20 min",
+    "rent1br": [
+      2400,
+      3800
+    ],
+    "rent2br": [
+      3500,
+      5500
+    ],
+    "rent3br": [
+      4800,
+      7500
+    ],
+    "schools": [
+      "Not an international-school belt — bus out or live north/west"
+    ],
+    "eat": [
+      "Tekka Centre",
+      "Race Course Road",
+      "Buffalo Road",
+      "Mustafa (when you need a frying pan at 1am)"
+    ],
+    "watch": "Deepavali lights go up weeks before 8 November — beautiful and packed. Street noise and incense are the deal. Farrer Park / City Square is the condo version of the same postcode. Serangoon Gardens is a different north-east entirely.",
+    "tags": [
+      "little india",
+      "farrer park",
+      "d8",
+      "tekka",
+      "nel",
+      "deepavali"
+    ]
   }
 ]
