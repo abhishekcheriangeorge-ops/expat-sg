@@ -577,5 +577,56 @@
       "new town",
       "value"
     ]
+  },
+  {
+    "slug": "yishun",
+    "name": "Yishun",
+    "district": "D27",
+    "region": "OCR",
+    "blurb": "The north that is not Woodlands. North-South Line, Northpoint, a real hospital, Lower Seletar at dawn. Internet jokes aside, this is how a lot of Singapore actually lives — and rents like it.",
+    "bestFor": [
+      "Value hunters",
+      "Heartland life",
+      "NSL commuters"
+    ],
+    "vibe": "Town centre + reservoir. Peak-hour trains, Chong Pang evenings, no Holland Village strip.",
+    "mrt": [
+      "Yishun (NSL)",
+      "Khatib (NSL)",
+      "Canberra (NSL)"
+    ],
+    "commuteCbd": "40–50 min",
+    "rent1br": [
+      2400,
+      3400
+    ],
+    "rent2br": [
+      3200,
+      4800
+    ],
+    "rent3br": [
+      4200,
+      6200
+    ],
+    "schools": [
+      "Mostly MOE neighbourhood schools",
+      "SAS / Tanglin are a long bus (Woodlands or Bukit Timah instead)"
+    ],
+    "eat": [
+      "Chong Pang",
+      "Yishun Park Hawker Centre",
+      "Northpoint City",
+      "Nee Soon"
+    ],
+    "watch": "Do not rent here for an international-school run. Do rent here if you want space, KTPH nearby, and a 1-bed that is not D9 money. NSL is packed 8am. Canberra is quieter than Yishun Central.",
+    "tags": [
+      "yishun",
+      "d27",
+      "north",
+      "nsl",
+      "heartland",
+      "khatib",
+      "canberra"
+    ]
   }
 ]
