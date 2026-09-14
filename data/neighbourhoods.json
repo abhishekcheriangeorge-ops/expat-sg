@@ -628,5 +628,56 @@
       "khatib",
       "canberra"
     ]
+  },
+  {
+    "slug": "kampong-glam",
+    "name": "Kampong Glam / Bugis",
+    "district": "D07",
+    "region": "RCR",
+    "blurb": "Sultan, Haji Lane, Arab Street, and Bugis as a real commute. Walkable, loud on Friday night, grocery on North Bridge. You live next to the postcard, which is the feature and the complaint.",
+    "bestFor": [
+      "No-car households",
+      "Walkers",
+      "People who want the city without D9 rent"
+    ],
+    "vibe": "Heritage streets, weekend crowds, weekday kopi. Not a school-bus neighbourhood.",
+    "mrt": [
+      "Bugis (EWL/DTL)",
+      "Nicoll Highway (CCL)",
+      "Lavender (EWL)",
+      "Jalan Besar (DTL)"
+    ],
+    "commuteCbd": "8–18 min",
+    "rent1br": [
+      2800,
+      4500
+    ],
+    "rent2br": [
+      4200,
+      7000
+    ],
+    "rent3br": [
+      6000,
+      9500
+    ],
+    "schools": [
+      "Limited international options nearby — bus or live west/east instead"
+    ],
+    "eat": [
+      "Arab Street",
+      "Haji Lane",
+      "North Bridge Road",
+      "Bugis street food",
+      "Kampong Glam cafe stretch"
+    ],
+    "watch": "Friday–Saturday noise on Haji Lane is not a rumour. Conservation walk-ups mean stairs and thin walls. Great if you walk everywhere; misery if you need a parking lot and a Tanglin bus.",
+    "tags": [
+      "kampong glam",
+      "bugis",
+      "d7",
+      "haji lane",
+      "arab street",
+      "walkable"
+    ]
   }
 ]
