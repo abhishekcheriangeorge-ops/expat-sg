@@ -90,6 +90,91 @@
     ]
   },
   {
+    "slug": "bringing-a-dog-2026",
+    "title": "Bringing the dog (or don\u2019t)",
+    "kicker": "Family",
+    "category": "family",
+    "excerpt": "Schedule I is Australia, New Zealand, Ireland and the UK \u2014 no quarantine if you do the paperwork. Everyone else is a blood test, an agent at Changi, and maybe ten or thirty days in a crate. The condo still has to say yes.",
+    "updated": "15 September 2026",
+    "readMinutes": 8,
+    "featured": false,
+    "hero": "/live/east-coast.jpg",
+    "tags": [
+      "dog",
+      "cat",
+      "pets",
+      "avs",
+      "nparks",
+      "quarantine",
+      "hdb",
+      "import"
+    ],
+    "body": [
+      {
+        "type": "p",
+        "text": "The Animal & Veterinary Service (AVS, under NParks) is not a vibe. It is a schedule. Pets move on three lists, a microchip, a licence on PALS, and a landlord clause most people read after they have already paid the crate. Since 1 April 2026 you appoint an AVS-recognised pet agent to clear Changi. You do not wander into CAPQ with a carrier and a smile."
+      },
+      {
+        "type": "h2",
+        "text": "The three schedules"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Schedule I \u2014 Australia, New Zealand, Ireland, United Kingdom. No quarantine and no rabies titre if the conditions are met. Still: import licence, vaccinations, parasite treatment, agent at the airport.",
+          "Schedule II \u2014 US, Canada, Japan, most of the EU, Hong Kong and a few others. Rabies antibody test (RNATT). If the animal arrives within five days of you and has lived at your address more than six months, no quarantine. Otherwise a minimum ten-day home quarantine (apply on FormSG at least four weeks out) or ten days at the Animal Quarantine Centre on a commercial licence.",
+          "Schedule III \u2014 everywhere else, including most of Latin America, Africa, much of Asia. RNATT with strict timing, then a mandatory minimum 30 days at AQC. Book the kennel months ahead."
+        ]
+      },
+      {
+        "type": "callout",
+        "tone": "warn",
+        "title": "Specified breeds",
+        "text": "Part 1 specified dogs are not allowed in \u2014 not to live, not to visit. Do not assume a mix is fine because the seller said so. AVS will look at the animal, not the Instagram caption."
+      },
+      {
+        "type": "h2",
+        "text": "Can you even keep it here?"
+      },
+      {
+        "type": "p",
+        "text": "HDB (Housing and Development (Animals) Rules 2024): maximum two cats and one dog of an approved small breed per flat. No specified breeds. Fine up to S$4,000. Private condos: maximum three cats or dogs combined, and then you still need the MCST and the lease. \u2018Pets allowed\u2019 in the listing often means \u2018cats, small dogs, not yours\u2019. Get it in the tenancy before you book the flight."
+      },
+      {
+        "type": "h2",
+        "text": "Once they land"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Licence every cat and dog on pals.avs.gov.sg. First-time owners complete the Pet Ownership Course first.",
+          "Fees (from 1 Sep 2026): sterilised, first three animals \u2014 S$15 a year, S$25 for two years, or S$35 one-time for life. Non-sterilised: S$90 a year. 10% off for GIRO/online/AXS. Sterilise.",
+          "AQC, if you must: fan S$26/day until 30 Nov 2026, then S$36. Air-con S$35, then S$44 from 1 Dec 2026. Plus S$75 transfer from Changi and S$68 if they vaccinate for rabies on arrival.",
+          "Leash in public. Cats under physical control. East Coast and the park connectors are the social life. The void deck is not a dog run."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "The honest fork"
+      },
+      {
+        "type": "p",
+        "text": "A young Labrador from Texas into a Tanjong Pagar walk-up is a two-month project and a five-figure invoice once you add agent, crate, flights, titre, and ten days of someone else\u2019s kennel. A Schedule I cat into a pet-ok condo in the east is a paperwork week. If the animal is old, anxious, or you are on a two-year EP, leaving them with family is not a moral failure. Rehoming in the origin country is kinder than a 30-day AQC stay and a no-pets clause you missed."
+      },
+      {
+        "type": "callout",
+        "tone": "info",
+        "title": "Start here",
+        "text": "avs.nparks.gov.sg for the current veterinary conditions (April 2026). Then the agent. Then the landlord. In that order."
+      },
+      {
+        "type": "cta",
+        "label": "Renting, including the pet clause",
+        "href": "/guides/renting-in-singapore"
+      }
+    ]
+  },
+  {
     "slug": "giving-birth-singapore-2026",
     "title": "Having a baby here: the 2026 version",
     "kicker": "Family",
