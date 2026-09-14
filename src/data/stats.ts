@@ -1,0 +1,19 @@
+export const STATS = [
+  { label: "EP floor (most sectors)", value: "S$5,600", hint: "Age 23, 2026. Rises with age." },
+  { label: "EP floor (finance)", value: "S$6,200", hint: "Age 23. COMPASS still applies." },
+  { label: "GST", value: "9%", hint: "On most goods and services." },
+  { label: "Top resident tax", value: "24%", hint: "Chargeable income above S$1m." },
+  { label: "Adult MRT pass", value: "S$122", hint: "Unlimited basic bus + train." },
+  { label: "Hawker meal", value: "S$4–8", hint: "The real national lunch." },
+] as const;
+
+export const TICKER = [
+  "EP qualifying salary S$5,600 / S$6,200 finance · 2026",
+  "COMPASS pass mark 40 points · exempt at S$22,500",
+  "EP floor rises to S$6,000 on 1 Jan 2027",
+  "GST 9% · no capital gains tax · territorial system",
+  "Adult monthly travel pass S$122",
+  "PR: no points formula · ~6 months · ~40,000 grants/year",
+  "International school fees S$24k–S$59k/year",
+  "SimplyGo / contactless bank cards on MRT",
+];
